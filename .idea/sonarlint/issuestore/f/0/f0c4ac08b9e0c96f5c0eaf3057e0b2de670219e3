@@ -1,0 +1,12 @@
+
+U	java:S106"9Replace this use of System.out or System.err by a logger.(™ó—•8¢™àò”.
+Y
+java:S1854	"7Remove this useless assignment to local variable "arr".(”ù½Üýÿÿÿÿ8µ¶ûò”.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(®ƒÏ¡úÿÿÿÿ8“¿‰ó”.
+X	java:S125"<This block of commented-out lines of code should be removed.(ŽÒñ§8µ¶ûò”.
+S
+java:S1128"1Remove this unused import 'java.util.Collection'.(¹ÉÐšùÿÿÿÿ8«¨“ò”.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¨ô¼þûÿÿÿÿ8í¬Šó”.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(¶‡ÈÍ8×ý›ó”.
+J
+java:S1481	"(Remove this unused "arr" local variable.(”ù½Üýÿÿÿÿ8µ¶ûò”.

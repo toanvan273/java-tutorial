@@ -1,0 +1,53 @@
+1 2 3 4 5 6 7 8 9 10
+ -- Message cần:
+subject *
+receiverName * 
+message *
+createdDate *
+id
+accountNo_s
+
+-- Email cần:
+subject *
+receiverName * 
+sendName * 
+content (message) *
+createdDate *
+id
+ 
+----------
+brandName: Tên tổ chức là người gửi gmail
+receiverIndentifier: số điện thoại người nhận hoặc email người nhận
+custID (customerID): là số định danh khách hàng
+accountNo: số tài khoản của khách hàng
+module: nguồn phát sinh từ BO(cơ sở) FDS(phái sinh)
+status: trạng thái của mail và sms (2 đã gửi - số này không cần cho vào mail)
+service: mail or sms (message là dạng sms hay email)
+createdDate: ngày tạo tin nhắn hay email(thường là ngày gửi requestDate)
+action: SEND - thực hiện việc gửi Email
+requestDate: ngày gửi sms hoặc email
+subject:-ORD (order) khớp lệnh
+	-TRN (Transaction) giao dịch
+	-FREE tin nhắn miễn phí
+data {
+account: null,
+typeInfo: ORD,
+fromDate: null,
+toDate: null,
+pageSize: 10,
+pageNumber: 100
+}
+
+dataRequest {
+id: 247875,
+status: 3;
+}
+api_search post {
+	id: ,
+	useraction: ,
+	
+}
+api_call dataQ = {
+	4
+}
+dd/MM/yyyy HH:mm:ss

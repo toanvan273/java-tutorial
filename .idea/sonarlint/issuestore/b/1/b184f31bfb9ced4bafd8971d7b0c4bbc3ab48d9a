@@ -1,0 +1,20 @@
+
+U	java:S1061"9Replace this use of System.out or System.err by a logger.(–‡×8ãİ¿…‘.
+K
+java:S1068")Remove this unused "Email" private field.(É§ê­úÿÿÿÿ8§˜­…‘.
+F
+java:S1068")Remove this unused "lName" private field.(±œŠ§8§˜­…‘.
+>
+java:S1170"!Make this final field static too.(´×Â¡8©ÁÛ¨‘.
+U	java:S1060"9Replace this use of System.out or System.err by a logger.(Áß‡Ü8ÚŸÀ…‘.
+q	java:S116"PRename this field "Email" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(É§ê­úÿÿÿÿ8§˜­…‘.
+U	java:S106$"9Replace this use of System.out or System.err by a logger.(ÍÄË¯8Ğí„‘.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(–ˆ›Åşÿÿÿÿ8“œş„‘.
+]	java:S125"<This block of commented-out lines of code should be removed.(»•ûÿÿÿÿ8Ü‘„‘.
+Z	java:S106!"9Replace this use of System.out or System.err by a logger.(òÔ¸‚ùÿÿÿÿ8Ğí„‘.
+]	java:S125"<This block of commented-out lines of code should be removed.(ä·Øÿÿÿÿÿ8©Ê’„‘.
+N
+java:S1068",Remove this unused "modeName" private field.(¯“·ùÿÿÿÿ8ÒÄÂ…‘.
+]	java:S125)"<This block of commented-out lines of code should be removed.(Ü€÷ıùÿÿÿÿ8š‰¯…‘.
+J
+java:S1068"-Remove this unused "modelYear" private field.(ø¶¥Ø8ëîÂ…‘.

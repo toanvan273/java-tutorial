@@ -1,0 +1,15 @@
+
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(şèØ™şÿÿÿÿ8¬†Óú’.
+X	java:S125"<This block of commented-out lines of code should be removed.(ß õ8ğÎÈú’.
+X	java:S125"<This block of commented-out lines of code should be removed.(îššÙ8ğÎÈú’.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(÷ÿŠÿÿÿÿÿ8«÷Ğú’.
+q
+java:S1192"ODefine a constant instead of duplicating this literal "Ban vua nhap: " 4 times.(Ş¯ŸÚùÿÿÿÿ8¬†Óú’.
+Z	java:S106#"9Replace this use of System.out or System.err by a logger.(òûºÚÿÿÿÿÿ8×ÊÕú’.
+Z	java:S106!"9Replace this use of System.out or System.err by a logger.(Îêüûûÿÿÿÿ8Ø‘Ôú’.
+T	java:S106"9Replace this use of System.out or System.err by a logger.(ÓÍ— 8ËâÊú’.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ùÏ•úÿÿÿÿ8Ó†Ğú’.
+X	java:S125"<This block of commented-out lines of code should be removed.(Ã§ğ8ï·Éú’.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Ş¯ŸÚùÿÿÿÿ8—ÜÍú’.
+X	java:S125"<This block of commented-out lines of code should be removed.(‰‹ôâ8ğÎÈú’.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(–ª»Ôüÿÿÿÿ8’—Òú’.
