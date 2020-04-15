@@ -1,4 +1,4 @@
-package java_array.JavaOop;
+package JavaOop;
 
 //import javax.print.DocFlavor;
 

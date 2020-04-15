@@ -1,38 +1,38 @@
 
+r	java:S117;"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ã£€Ûúÿÿÿÿ8ë¨ğÿ“.
 U
 java:S1854#"8Remove this useless assignment to local variable "tick".(›Á¨·8İ¤í”.
-B
-java:S14816"&Remove this unused "k" local variable.(³Ëµ8›óøì”.
-Z	java:S106>"9Replace this use of System.out or System.err by a logger.(ó“‰ÿÿÿÿÿ8ÂÊûÿ“.
-U	java:S106"9Replace this use of System.out or System.err by a logger.(²…»­8ä—‹û“.
-9
-java:S1643"Use a StringBuilder instead.(†äÙÈ8Â¤û“.
-U	java:S106"9Replace this use of System.out or System.err by a logger.(ıòä8Ë³«û“.
-r	java:S117;"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ã£€Ûúÿÿÿÿ8ë¨ğÿ“.
-U	java:S106+"9Replace this use of System.out or System.err by a logger.(Ö¯§œ8§şÙí”.
-m	java:S1177"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÁåÎ´8ÀÜÚÿ“.
->
-java:S1643"Use a StringBuilder instead.(ƒÎÃßûÿÿÿÿ8Ë¨û“.
-Z	java:S106)"9Replace this use of System.out or System.err by a logger.(Ã”…ªûÿÿÿÿ8ÃÊÙí”.
-X	java:S125B"<This block of commented-out lines of code should be removed.(Üï˜Î8±¯ëì”.
-m	java:S117="QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Šéàó8ÂÊûÿ“.
-]	java:S125("<This block of commented-out lines of code should be removed.(ÜªÚşùÿÿÿÿ8ÇÙí”.
-R
-java:S1854="5Remove this useless assignment to local variable "Z".(Šéàó8Ó¥üì”.
-F
-java:S1481#")Remove this unused "tick" local variable.(›Á¨·8„ıÔí”.
-9
-java:S1643"Use a StringBuilder instead.(é‡˜8Ñú©û“.
-U	java:S1062"9Replace this use of System.out or System.err by a logger.(¤×¾8²ŒÑí”.
 >
 java:S1643"Use a StringBuilder instead.(ƒÎÃßûÿÿÿÿ8Ä“¢û“.
-m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŸÜ–é8àÒç©“.
-r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÛÒñ¸ıÿÿÿÿ8­Í“û“.
->
-java:S16439"Use a StringBuilder instead.(Ğé£Ğøÿÿÿÿ8±Ïàÿ“.
-t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(õºˆÌÿÿÿÿÿ
-C
-java:S1481="&Remove this unused "Z" local variable.(Šéàó8Ó¥üì”.
-]	java:S125,"<This block of commented-out lines of code should be removed.(ƒüÕ¤øÿÿÿÿ8ş†Ùí”.
+F
+java:S1481#")Remove this unused "tick" local variable.(›Á¨·8„ıÔí”.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ıòä8Ë³«û“.
+Z	java:S106>"9Replace this use of System.out or System.err by a logger.(ó“‰ÿÿÿÿÿ8ÂÊûÿ“.
+B
+java:S14816"&Remove this unused "k" local variable.(³Ëµ8›óøì”.
 Q
 java:S18546"5Remove this useless assignment to local variable "k".(³Ëµ8›óøì”.
+U	java:S1062"9Replace this use of System.out or System.err by a logger.(¤×¾8²ŒÑí”.
+m	java:S117="QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Šéàó8ÂÊûÿ“.
+C
+java:S1481="&Remove this unused "Z" local variable.(Šéàó8Ó¥üì”.
+X	java:S125B"<This block of commented-out lines of code should be removed.(Üï˜Î8±¯ëì”.
+R
+java:S1854="5Remove this useless assignment to local variable "Z".(Šéàó8Ó¥üì”.
+Z	java:S106)"9Replace this use of System.out or System.err by a logger.(Ã”…ªûÿÿÿÿ8ÃÊÙí”.
+9
+java:S1643"Use a StringBuilder instead.(†äÙÈ8Â¤û“.
+>
+java:S16439"Use a StringBuilder instead.(Ğé£Ğøÿÿÿÿ8±Ïàÿ“.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(²…»­8ä—‹û“.
+>
+java:S1643"Use a StringBuilder instead.(ƒÎÃßûÿÿÿÿ8Ë¨û“.
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÛÒñ¸ıÿÿÿÿ8­Í“û“.
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŸÜ–é8àÒç©“.
+m	java:S1177"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÁåÎ´8ÀÜÚÿ“.
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(õºˆÌÿÿÿÿÿ
+]	java:S125("<This block of commented-out lines of code should be removed.(ÜªÚşùÿÿÿÿ8ÇÙí”.
+U	java:S106+"9Replace this use of System.out or System.err by a logger.(Ö¯§œ8§şÙí”.
+]	java:S125,"<This block of commented-out lines of code should be removed.(ƒüÕ¤øÿÿÿÿ8ş†Ùí”.
+9
+java:S1643"Use a StringBuilder instead.(é‡˜8Ñú©û“.

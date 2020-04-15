@@ -5,18 +5,42 @@ public class Student {
     private int StudentYear;
     private float StudentMark;
     private String faculty;
-    public void  goToSchool(){
+
+    public Student() {
 
     }
-    public void study(){
+
+    public void goToSchool() {
 
     }
-    public void doExample(){
+
+    public void study() {
 
     }
-    public void seeExampleResult(){
+
+    public void doExample() {
 
     }
+
+    public void seeExampleResult() {
+
+    }
+
+    public Student(int studentYear, float studentAVGMark, String faculty) {
+        this.StudentYear = studentYear;
+        this.StudentMark = studentAVGMark;
+        this.faculty = faculty;
+    }
+
+    public Student(String studentID, int studentYears, float studentAVGMark, String faculty) {
+        this(studentYears, studentAVGMark, faculty); // Gọi đến phương thức khởi tạo khác
+        this.StudentID = studentID;
+//        this.StudentYear = studentYears;
+//        this.StudentMark = studentAVGMark;
+//        this.faculty = faculty;
+
+    }
+
     public String getStudentID() {
         return StudentID;
     }

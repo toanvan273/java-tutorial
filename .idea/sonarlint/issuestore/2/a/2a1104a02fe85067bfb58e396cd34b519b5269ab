@@ -1,36 +1,36 @@
 
 T	java:S106"9Replace this use of System.out or System.err by a logger.(ÇÑ×8ï¨‘ô•.
-]	java:S125!"<This block of commented-out lines of code should be removed.(‘Ù‚Òúÿÿÿÿ8ÙÑ¢ô•.
-D
-java:S1659""Declare "arr3" on a separate line.(³âÛÚøÿÿÿÿ8õ³¯ó•.
+K
+java:S1481")Remove this unused "arr2" local variable.(³âÛÚøÿÿÿÿ8õ³¯ó•.
+I
+java:S1481"'Remove this unused "n3" local variable.(âþ Êýÿÿÿÿ8óæêó•.
+B
+java:S1659" Declare "n3" on a separate line.(âþ Êýÿÿÿÿ8õ³¯ó•.
 }
 java:S1488"[Immediately return this expression instead of assigning it to the temporary variable "res".(Åèíòüÿÿÿÿ8ÝÅéó•.
 K
 java:S1481")Remove this unused "arr1" local variable.(³âÛÚøÿÿÿÿ8ÝÅéó•.
-N
-java:S1481",Remove this unused "scanner" local variable.(ù ƒ‘üÿÿÿÿ8óæêó•.
-I
-java:S1481"'Remove this unused "n2" local variable.(âþ Êýÿÿÿÿ8óæêó•.
-X
-java:S1854"6Remove this useless assignment to local variable "n3".(âþ Êýÿÿÿÿ8óæêó•.
-K
-java:S1481")Remove this unused "arr3" local variable.(³âÛÚøÿÿÿÿ8õ³¯ó•.
-I
-java:S1481"'Remove this unused "n1" local variable.(âþ Êýÿÿÿÿ8óæêó•.
-]	java:S125"<This block of commented-out lines of code should be removed.(ÖžüÆÿÿÿÿÿ8óæêó•.
-X
-java:S1854"6Remove this useless assignment to local variable "n2".(âþ Êýÿÿÿÿ8óæêó•.
 D
-java:S1659""Declare "arr2" on a separate line.(³âÛÚøÿÿÿÿ8õ³¯ó•.
-]
-java:S1854";Remove this useless assignment to local variable "scanner".(ù ƒ‘üÿÿÿÿ8óæêó•.
-B
-java:S1659" Declare "n2" on a separate line.(âþ Êýÿÿÿÿ8õ³¯ó•.
-B
-java:S1659" Declare "n3" on a separate line.(âþ Êýÿÿÿÿ8õ³¯ó•.
-I
-java:S1481"'Remove this unused "n3" local variable.(âþ Êýÿÿÿÿ8óæêó•.
+java:S1659""Declare "arr3" on a separate line.(³âÛÚøÿÿÿÿ8õ³¯ó•.
+]	java:S125!"<This block of commented-out lines of code should be removed.(‘Ù‚Òúÿÿÿÿ8ÙÑ¢ô•.
 X
 java:S1854"6Remove this useless assignment to local variable "n1".(âþ Êýÿÿÿÿ8óæêó•.
+B
+java:S1659" Declare "n2" on a separate line.(âþ Êýÿÿÿÿ8õ³¯ó•.
+I
+java:S1481"'Remove this unused "n2" local variable.(âþ Êýÿÿÿÿ8óæêó•.
+]
+java:S1854";Remove this useless assignment to local variable "scanner".(ù ƒ‘üÿÿÿÿ8óæêó•.
+]	java:S125"<This block of commented-out lines of code should be removed.(ÖžüÆÿÿÿÿÿ8óæêó•.
+D
+java:S1659""Declare "arr2" on a separate line.(³âÛÚøÿÿÿÿ8õ³¯ó•.
+I
+java:S1481"'Remove this unused "n1" local variable.(âþ Êýÿÿÿÿ8óæêó•.
+N
+java:S1481",Remove this unused "scanner" local variable.(ù ƒ‘üÿÿÿÿ8óæêó•.
 K
-java:S1481")Remove this unused "arr2" local variable.(³âÛÚøÿÿÿÿ8õ³¯ó•.
+java:S1481")Remove this unused "arr3" local variable.(³âÛÚøÿÿÿÿ8õ³¯ó•.
+X
+java:S1854"6Remove this useless assignment to local variable "n2".(âþ Êýÿÿÿÿ8óæêó•.
+X
+java:S1854"6Remove this useless assignment to local variable "n3".(âþ Êýÿÿÿÿ8óæêó•.

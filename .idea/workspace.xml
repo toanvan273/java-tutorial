@@ -1,12 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="20422745-400c-4c1a-b4b9-96c94f5b7355" name="Default Changelist" comment="" />
+    <list default="true" id="20422745-400c-4c1a-b4b9-96c94f5b7355" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaOop/Java40.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaOop/JavaContructor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/2/029dfd4797368bfce5c2cb772c60b54a595ad1c6" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/2/029dfd4797368bfce5c2cb772c60b54a595ad1c6" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/a/2a1104a02fe85067bfb58e396cd34b519b5269ab" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/a/2a1104a02fe85067bfb58e396cd34b519b5269ab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/7/5722044ca65bbc71bada952e4e8364688cceb4b5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/9/59318d9f76742e367cbcbe3f2ce37bbf0912c673" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/9/59318d9f76742e367cbcbe3f2ce37bbf0912c673" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/e/6ea887f4454a88870d0d370a7c2b4ccff5e6dc18" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/e/6ea887f4454a88870d0d370a7c2b4ccff5e6dc18" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/8/985f3ed5f3391859807ba5dd8660eff6130a429c" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/8/985f3ed5f3391859807ba5dd8660eff6130a429c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/3/a3270d0cefd2f3429ef88c960f52a0cf29da7f16" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/3/a3270d0cefd2f3429ef88c960f52a0cf29da7f16" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/e/fe1f6f0a576f1753678168d555eed7ce4c8af023" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/java_array/JavaOop/JavaClass2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/java_array/JavaOop/js$Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/java_array/JavaOop/js.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/model/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled/model/Student.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java_array/JavaOop/JavaClass2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaOop/JavaClass2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java_array/JavaOop/js.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaOop/js.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/model/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/Student.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -15,8 +50,15 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1ZFZZZO8n1dxUEZavMMGM1bncoF" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../d-communication" />
@@ -33,20 +75,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.JavaClass2">
-    <configuration name="Java3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java_exercise_p1.Java3" />
-      <module name="untitled" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="java_exercise_p1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.JavaContructor">
     <configuration name="Java35 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="java_method.Java35" />
       <module name="untitled" />
@@ -60,12 +89,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Java35" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java_array.Java35" />
+    <configuration name="Java40" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaOop.Java40" />
       <module name="untitled" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="java_array.*" />
+          <option name="PATTERN" value="JavaOop.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -74,11 +103,24 @@
       </method>
     </configuration>
     <configuration name="JavaClass2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java_array.JavaOop.JavaClass2" />
+      <option name="MAIN_CLASS_NAME" value="JavaOop.JavaClass2" />
       <module name="untitled" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="java_array.JavaOop.*" />
+          <option name="PATTERN" value="JavaOop.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JavaContructor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaOop.JavaContructor" />
+      <module name="untitled" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JavaOop.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -87,11 +129,11 @@
       </method>
     </configuration>
     <configuration name="js" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java_array.JavaOop.js" />
+      <option name="MAIN_CLASS_NAME" value="JavaOop.js" />
       <module name="untitled" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="java_array.JavaOop.*" />
+          <option name="PATTERN" value="JavaOop.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -101,11 +143,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.JavaContructor" />
+        <item itemvalue="Application.Java40" />
         <item itemvalue="Application.JavaClass2" />
         <item itemvalue="Application.js" />
         <item itemvalue="Application.Java35 (1)" />
-        <item itemvalue="Application.Java3" />
-        <item itemvalue="Application.Java35" />
       </list>
     </recent_temporary>
   </component>
@@ -133,11 +175,32 @@
       <workItem from="1586426687638" duration="1792000" />
       <workItem from="1586428512181" duration="2057000" />
       <workItem from="1586442616890" duration="1790000" />
+      <workItem from="1586921265110" duration="1783000" />
+      <workItem from="1586923072435" duration="1393000" />
+      <workItem from="1586924902170" duration="949000" />
+      <workItem from="1586931241482" duration="1813000" />
+      <workItem from="1586934435397" duration="55000" />
+      <workItem from="1586934524467" duration="1486000" />
+      <workItem from="1586936528404" duration="3000" />
+      <workItem from="1586936882236" duration="66000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/untitled$Java34.ic" NAME="Java34 Coverage Results" MODIFIED="1586155745941" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
