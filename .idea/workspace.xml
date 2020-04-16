@@ -2,26 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="20422745-400c-4c1a-b4b9-96c94f5b7355" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaOop/Java40.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaOop/JavaContructor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/2/029dfd4797368bfce5c2cb772c60b54a595ad1c6" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/2/029dfd4797368bfce5c2cb772c60b54a595ad1c6" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/a/2a1104a02fe85067bfb58e396cd34b519b5269ab" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/a/2a1104a02fe85067bfb58e396cd34b519b5269ab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/7/5722044ca65bbc71bada952e4e8364688cceb4b5" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/9/59318d9f76742e367cbcbe3f2ce37bbf0912c673" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/9/59318d9f76742e367cbcbe3f2ce37bbf0912c673" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/relationship/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/relationship/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/relationship/C.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/relationship/Java41.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/9/1911eece7560f0442c47fa0e6402e4ccbeacceab" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/9/1911eece7560f0442c47fa0e6402e4ccbeacceab" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/e/6ea887f4454a88870d0d370a7c2b4ccff5e6dc18" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/e/6ea887f4454a88870d0d370a7c2b4ccff5e6dc18" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/8/985f3ed5f3391859807ba5dd8660eff6130a429c" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/8/985f3ed5f3391859807ba5dd8660eff6130a429c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/3/a3270d0cefd2f3429ef88c960f52a0cf29da7f16" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/3/a3270d0cefd2f3429ef88c960f52a0cf29da7f16" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/e/fe1f6f0a576f1753678168d555eed7ce4c8af023" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/c/acfa20af625fc30d9871f3eb450f62f26cb31a14" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/c/acfa20af625fc30d9871f3eb450f62f26cb31a14" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/a/badaf702bb47053e3fc09079642e9daa5b266aa0" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/a/badaf702bb47053e3fc09079642e9daa5b266aa0" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/1/e162b3da0ef776fcb127c1693630a3b69794c600" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/1/e162b3da0ef776fcb127c1693630a3b69794c600" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled/java_array/JavaOop/JavaClass2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled/java_array/JavaOop/js$Person.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled/java_array/JavaOop/js.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled/model/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled/model/Student.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java_array/JavaOop/JavaClass2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaOop/JavaClass2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java_array/JavaOop/js.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaOop/js.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/model/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/Student.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -183,6 +174,9 @@
       <workItem from="1586934524467" duration="1486000" />
       <workItem from="1586936528404" duration="3000" />
       <workItem from="1586936882236" duration="66000" />
+      <workItem from="1586937238231" duration="600000" />
+      <workItem from="1586941464907" duration="1787000" />
+      <workItem from="1586943277294" duration="620000" />
     </task>
     <servers />
   </component>

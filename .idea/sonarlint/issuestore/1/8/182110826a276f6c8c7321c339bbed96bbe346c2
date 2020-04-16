@@ -1,0 +1,11 @@
+
+U
+java:S1854	"8Remove this useless assignment to local variable "bebe".(êÒÂğ8Şç½é—.
+F
+java:S1481	")Remove this unused "bebe" local variable.(êÒÂğ8Şç½é—.
+S
+java:S1854
+"6Remove this useless assignment to local variable "bs".(ĞÑÚß8ÆÃé—.
+D
+java:S1481
+"'Remove this unused "bs" local variable.(ĞÑÚß8ÆÃé—.
