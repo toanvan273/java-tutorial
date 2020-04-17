@@ -43,14 +43,6 @@ K
 src/java_method/Java35.java,2\a\2a1104a02fe85067bfb58e396cd34b519b5269ab
 F
 src/model/Student.java,6\e\6ea887f4454a88870d0d370a7c2b4ccff5e6dc18
-C
-src/JavaOop/js.java,b\a\badaf702bb47053e3fc09079642e9daa5b266aa0
-K
-src/JavaOop/JavaClass2.java,e\1\e162b3da0ef776fcb127c1693630a3b69794c600
-G
-src/JavaOop/Java40.java,1\9\1911eece7560f0442c47fa0e6402e4ccbeacceab
-O
-src/JavaOop/JavaContructor.java,a\c\acfa20af625fc30d9871f3eb450f62f26cb31a14
 L
 src/relationship/Java41.java,8\e\8ec0b8636312faf97fa56c7395da52b1255c6c41
 G
@@ -59,3 +51,17 @@ G
 src/relationship/B.java,8\a\8a0a145fc3c8eb6b0aa1532578aa00d3e670c19a
 G
 src/relationship/A.java,1\8\182110826a276f6c8c7321c339bbed96bbe346c2
+>
+src/Oop/A.java,0\9\098bac9b7541f067870a756b967eb9052846d955
+C
+src/Oop/Java42.java,3\b\3b02a706ed40f437e4f2e552525934b0308d4118
+^
+.src/Oop/static_fields_and_methods/Student.java,3\a\3a87113ed34ba3f36feede8b12cd405a2f929207
+\
+,src/Oop/static_fields_and_methods/Bai43.java,1\5\15d9aaeea1edd07309f4e765e2a5c5dae2a2daf7
+\
+,src/Oop/static_fields_and_methods/Bai44.java,6\d\6d27b87275c440c555368c28e6b6c7e901a014d6
+]
+-src/Oop/static_fields_and_methods/Bai44B.java,d\e\de08e16ed33864dd19da62c03cbf58b3bd451a0f
+e
+5src/Oop/static_fields_and_methods/StudentFactory.java,2\5\25eddbcac281b3fbf17635d5b357e39534a380c8

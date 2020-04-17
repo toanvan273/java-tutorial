@@ -1,8 +1,6 @@
-package JavaOop;
+package Oop;
 
 import model.Student;
-
-import java.util.Scanner;
 
 /* Phương thức khởi tạo*/
 /*

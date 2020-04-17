@@ -1,4 +1,4 @@
-package JavaOop;
+package Oop;
 
 import model.Student;
 

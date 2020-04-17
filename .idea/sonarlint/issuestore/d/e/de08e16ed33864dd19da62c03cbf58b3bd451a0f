@@ -1,0 +1,7 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ŸĞ—¥şÿÿÿÿ
+R
+java:S1481	"5Remove this unused "percentFormatter" local variable.(ëˆÓ™8Õøè¶˜.
+a
+java:S1854	"DRemove this useless assignment to local variable "percentFormatter".(ëˆÓ™8Õøè¶˜.
+T	java:S106"9Replace this use of System.out or System.err by a logger.(¸ã@8ÛÑì¶˜.

@@ -1,6 +1,4 @@
-package JavaOop;
-
-import model.Student;
+package Oop;
 
 public class JavaClass2  {
     public static void main(String[] args) {
