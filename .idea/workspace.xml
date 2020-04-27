@@ -1,33 +1,65 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="20422745-400c-4c1a-b4b9-96c94f5b7355" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Oop/A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oop/Java42.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oop/static_fields_and_methods/Bai43.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oop/static_fields_and_methods/Bai44.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oop/static_fields_and_methods/Bai44B.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oop/static_fields_and_methods/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oop/static_fields_and_methods/StudentFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/8/182110826a276f6c8c7321c339bbed96bbe346c2" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/8/182110826a276f6c8c7321c339bbed96bbe346c2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/9/1911eece7560f0442c47fa0e6402e4ccbeacceab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/a/8a0a145fc3c8eb6b0aa1532578aa00d3e670c19a" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/a/8a0a145fc3c8eb6b0aa1532578aa00d3e670c19a" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/c/acfa20af625fc30d9871f3eb450f62f26cb31a14" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/a/badaf702bb47053e3fc09079642e9daa5b266aa0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/1/e162b3da0ef776fcb127c1693630a3b69794c600" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/e/0e4b3d53e4c795ad933697b152bfc19a9b97fdaf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/1/b14a73258ce436ac8b61b8341ea0f3a0b8933147" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/f/bf0081753f9be1f11cbdd4ce824a27e601a83ae8" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oop/java_documentation/Java50.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oop/java_package/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oop/java_package/X.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codebranch/AbstractPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codebranch/GameLogic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codebranch/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_date_time/LopJavaDate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_date_time/LopLocalDate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_date_time/LopSimpleDateFormat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/regular_expressions/RegularExpessionP5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/regular_expressions/RegularExpressionP2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/regular_expressions/RegularExpressionP3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/regular_expressions/RegularExpressionP4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/trutuong/Honda4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/trutuong/Printable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/trutuong/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/trutuong/Test5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/trutuong/TestAbstraction1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/trutuong/newplace/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/trutuong/newplace/Simple.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/5/15d9aaeea1edd07309f4e765e2a5c5dae2a2daf7" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/5/15d9aaeea1edd07309f4e765e2a5c5dae2a2daf7" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/5/25eddbcac281b3fbf17635d5b357e39534a380c8" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/5/25eddbcac281b3fbf17635d5b357e39534a380c8" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/a/3a87113ed34ba3f36feede8b12cd405a2f929207" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/a/3a87113ed34ba3f36feede8b12cd405a2f929207" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/b/3b02a706ed40f437e4f2e552525934b0308d4118" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/b/3b02a706ed40f437e4f2e552525934b0308d4118" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/d/6d27b87275c440c555368c28e6b6c7e901a014d6" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/d/6d27b87275c440c555368c28e6b6c7e901a014d6" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/e/de08e16ed33864dd19da62c03cbf58b3bd451a0f" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/e/de08e16ed33864dd19da62c03cbf58b3bd451a0f" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled/JavaOop/Java40.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled/JavaOop/JavaClass2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled/JavaOop/JavaContructor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled/JavaOop/js$Person.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled/JavaOop/js.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaOop/Java40.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oop/Java40.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaOop/JavaClass2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oop/JavaClass2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaOop/JavaContructor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oop/JavaContructor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaOop/js.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oop/js.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/META-INF/untitled.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled/META-INF/untitled.kotlin_module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/MyClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled/MyClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/Oop/A.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled/Oop/A.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/model/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled/model/Student.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MyClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MyClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Oop/A.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oop/A.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/model/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/Student.java" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -50,6 +82,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -61,31 +94,25 @@
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../d-communication" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Application.Bai44B">
-    <configuration name="Bai43" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Oop.static_fields_and_methods.Bai43" />
+  <component name="RunManager" selected="Application.LopLocalDate">
+    <configuration name="LopJavaDate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java_date_time.LopJavaDate" />
       <module name="untitled" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Oop.static_fields_and_methods.*" />
+          <option name="PATTERN" value="java_date_time.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -93,12 +120,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Bai44" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Oop.static_fields_and_methods.Bai44" />
+    <configuration name="LopLocalDate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java_date_time.LopLocalDate" />
       <module name="untitled" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Oop.static_fields_and_methods.*" />
+          <option name="PATTERN" value="java_date_time.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -106,12 +133,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Bai44B" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Oop.static_fields_and_methods.Bai44B" />
+    <configuration name="LopSimpleDateFormat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java_date_time.LopSimpleDateFormat" />
       <module name="untitled" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Oop.static_fields_and_methods.*" />
+          <option name="PATTERN" value="java_date_time.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,12 +146,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Java42" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Oop.Java42" />
+    <configuration name="RegularExpessionP5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="regular_expressions.RegularExpessionP5" />
       <module name="untitled" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Oop.*" />
+          <option name="PATTERN" value="regular_expressions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -132,12 +159,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JavaContructor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Oop.JavaContructor" />
+    <configuration name="RegularExpressionP4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="regular_expressions.RegularExpressionP4" />
       <module name="untitled" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Oop.*" />
+          <option name="PATTERN" value="regular_expressions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -147,11 +174,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Bai44B" />
-        <item itemvalue="Application.Bai44" />
-        <item itemvalue="Application.Bai43" />
-        <item itemvalue="Application.Java42" />
-        <item itemvalue="Application.JavaContructor" />
+        <item itemvalue="Application.LopLocalDate" />
+        <item itemvalue="Application.LopSimpleDateFormat" />
+        <item itemvalue="Application.LopJavaDate" />
+        <item itemvalue="Application.RegularExpessionP5" />
+        <item itemvalue="Application.RegularExpressionP4" />
       </list>
     </recent_temporary>
   </component>
@@ -196,7 +223,13 @@
       <workItem from="1587028261009" duration="1001000" />
       <workItem from="1587092641258" duration="1468000" />
       <workItem from="1587104075673" duration="1664000" />
-      <workItem from="1587105888389" duration="786000" />
+      <workItem from="1587105888389" duration="994000" />
+      <workItem from="1587106904690" duration="1216000" />
+      <workItem from="1587111243603" duration="1822000" />
+      <workItem from="1587114853580" duration="1240000" />
+      <workItem from="1587117826285" duration="1245000" />
+      <workItem from="1587119638921" duration="691000" />
+      <workItem from="1587346995485" duration="34000" />
     </task>
     <servers />
   </component>
@@ -208,13 +241,58 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
+            <State />
           </value>
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1246" y="231" key="#com.intellij.ide.util.MemberChooser" timestamp="1587527028323">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1246" y="231" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1587527028323" />
+    <state width="1000" height="319" key="GridCell.Tab.0.bottom" timestamp="1587724827488">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1000" height="319" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1587724827488" />
+    <state width="1000" height="319" key="GridCell.Tab.0.center" timestamp="1587724827488">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1000" height="319" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1587724827488" />
+    <state width="1000" height="319" key="GridCell.Tab.0.left" timestamp="1587724827488">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1000" height="319" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1587724827488" />
+    <state width="1000" height="319" key="GridCell.Tab.0.right" timestamp="1587724827488">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1000" height="319" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1587724827488" />
+    <state width="1000" height="319" key="GridCell.Tab.1.bottom" timestamp="1587724827488">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1000" height="319" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1587724827488" />
+    <state width="1000" height="319" key="GridCell.Tab.1.center" timestamp="1587724827488">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1000" height="319" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1587724827488" />
+    <state width="1000" height="319" key="GridCell.Tab.1.left" timestamp="1587724827488">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1000" height="319" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1587724827488" />
+    <state width="1000" height="319" key="GridCell.Tab.1.right" timestamp="1587724827488">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1000" height="319" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1587724827488" />
+    <state x="835" y="230" width="885" height="800" key="dock-window-1" timestamp="1587453009899">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="835" y="230" width="885" height="800" key="dock-window-1/0.0.1920.1040@0.0.1920.1040" timestamp="1587453009899" />
+    <state x="1145" y="244" width="672" height="678" key="search.everywhere.popup" timestamp="1587545716373">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1145" y="244" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1587545716373" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/untitled$Java34.ic" NAME="Java34 Coverage Results" MODIFIED="1586155745941" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">

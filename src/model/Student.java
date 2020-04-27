@@ -26,6 +26,13 @@ public class Student {
 
     }
 
+    /**
+     *
+     * @param studentYear
+     * @param studentAVGMark
+     * @param faculty
+     */
+
     public Student(int studentYear, float studentAVGMark, String faculty) {
         this.StudentYear = studentYear;
         this.StudentMark = studentAVGMark;

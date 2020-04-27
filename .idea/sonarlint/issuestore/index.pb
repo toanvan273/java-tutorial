@@ -65,3 +65,9 @@ C
 -src/Oop/static_fields_and_methods/Bai44B.java,d\e\de08e16ed33864dd19da62c03cbf58b3bd451a0f
 e
 5src/Oop/static_fields_and_methods/StudentFactory.java,2\5\25eddbcac281b3fbf17635d5b357e39534a380c8
+R
+"src/codebranch/AbstractPlayer.java,b\f\bf0081753f9be1f11cbdd4ce824a27e601a83ae8
+M
+src/codebranch/GameLogic.java,0\e\0e4b3d53e4c795ad933697b152bfc19a9b97fdaf
+H
+src/codebranch/Main.java,b\1\b14a73258ce436ac8b61b8341ea0f3a0b8933147
