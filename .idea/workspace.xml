@@ -19,47 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="20422745-400c-4c1a-b4b9-96c94f5b7355" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/e/0e4b3d53e4c795ad933697b152bfc19a9b97fdaf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/1/b14a73258ce436ac8b61b8341ea0f3a0b8933147" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/f/bf0081753f9be1f11cbdd4ce824a27e601a83ae8" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oop/java_documentation/Java50.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oop/java_package/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oop/java_package/X.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codebranch/AbstractPlayer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codebranch/GameLogic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codebranch/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_date_time/LopJavaDate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_date_time/LopLocalDate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_date_time/LopSimpleDateFormat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/regular_expressions/RegularExpessionP5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/regular_expressions/RegularExpressionP2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/regular_expressions/RegularExpressionP3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/regular_expressions/RegularExpressionP4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/trutuong/Honda4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/trutuong/Printable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/trutuong/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/trutuong/Test5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/trutuong/TestAbstraction1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/trutuong/newplace/B.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/trutuong/newplace/Simple.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/5/15d9aaeea1edd07309f4e765e2a5c5dae2a2daf7" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/5/15d9aaeea1edd07309f4e765e2a5c5dae2a2daf7" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/5/25eddbcac281b3fbf17635d5b357e39534a380c8" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/5/25eddbcac281b3fbf17635d5b357e39534a380c8" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/a/3a87113ed34ba3f36feede8b12cd405a2f929207" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/a/3a87113ed34ba3f36feede8b12cd405a2f929207" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/b/3b02a706ed40f437e4f2e552525934b0308d4118" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/b/3b02a706ed40f437e4f2e552525934b0308d4118" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/d/6d27b87275c440c555368c28e6b6c7e901a014d6" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/d/6d27b87275c440c555368c28e6b6c7e901a014d6" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/e/de08e16ed33864dd19da62c03cbf58b3bd451a0f" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/e/de08e16ed33864dd19da62c03cbf58b3bd451a0f" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled/META-INF/untitled.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled/META-INF/untitled.kotlin_module" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled/MyClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled/MyClass.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled/Oop/A.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled/Oop/A.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled/model/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled/model/Student.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MyClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MyClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Oop/A.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oop/A.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/model/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/Student.java" afterDir="false" />
-    </list>
+    <list default="true" id="20422745-400c-4c1a-b4b9-96c94f5b7355" name="Default Changelist" comment="style" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -231,6 +191,14 @@
       <workItem from="1587119638921" duration="691000" />
       <workItem from="1587346995485" duration="34000" />
     </task>
+    <task id="LOCAL-00001" summary="style">
+      <created>1587952198395</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1587952198395</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -247,6 +215,10 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="style" />
+    <option name="LAST_COMMIT_MESSAGE" value="style" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1246" y="231" key="#com.intellij.ide.util.MemberChooser" timestamp="1587527028323">
