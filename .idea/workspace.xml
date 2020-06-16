@@ -20,12 +20,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="20422745-400c-4c1a-b4b9-96c94f5b7355" name="Default Changelist" comment="style">
-      <change afterPath="$PROJECT_DIR$/src/ChaCon/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ChaCon/Java52.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ChaCon/Java53.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ChaCon/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ChaCon/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/baitapquanlyhocsinh/HoSoHocSinh.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/baitapquanlyhocsinh/Nguoi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/baitapquanlyhocsinh/Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/ChaCon/Java53.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled/ChaCon/Java53.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/META-INF/untitled.kotlin_module" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,15 +71,29 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../nhan-ha/api" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.customizations" />
   </component>
-  <component name="RunManager" selected="Application.Java53">
+  <component name="RunManager" selected="Application.Test">
     <configuration name="DateFormat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="java_date_time.DateFormat" />
       <module name="untitled" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="java_date_time.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Honda4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="trutuong.Honda4" />
+      <module name="untitled" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="trutuong.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -100,19 +114,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LopJavaDate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java_date_time.LopJavaDate" />
-      <module name="untitled" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="java_date_time.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="LopLocalDate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="java_date_time.LopLocalDate" />
       <module name="untitled" />
@@ -126,12 +127,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LopSimpleDateFormat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java_date_time.LopSimpleDateFormat" />
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="baitapquanlyhocsinh.Test" />
       <module name="untitled" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="java_date_time.*" />
+          <option name="PATTERN" value="baitapquanlyhocsinh.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -141,11 +142,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.Honda4" />
         <item itemvalue="Application.Java53" />
         <item itemvalue="Application.DateFormat" />
         <item itemvalue="Application.LopLocalDate" />
-        <item itemvalue="Application.LopSimpleDateFormat" />
-        <item itemvalue="Application.LopJavaDate" />
       </list>
     </recent_temporary>
   </component>
@@ -228,30 +229,34 @@
     <option name="LAST_COMMIT_MESSAGE" value="style" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1246" y="231" key="#com.intellij.ide.util.MemberChooser" timestamp="1588134706883">
+    <state x="770" y="240" key="#Menus_and_Toolbars" timestamp="1592210324327">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1246" y="231" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1588134706883" />
+    <state x="770" y="240" key="#Menus_and_Toolbars/0.0.1920.1040@0.0.1920.1040" timestamp="1592210324327" />
+    <state x="1246" y="231" key="#com.intellij.ide.util.MemberChooser" timestamp="1592288203624">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1246" y="231" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1592288203624" />
     <state x="1198" y="279" key="FileChooserDialogImpl" timestamp="1588154686810">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1198" y="279" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1588154686810" />
-    <state width="1877" height="80" key="GridCell.Tab.0.bottom" timestamp="1588156419150">
+    <state width="1000" height="195" key="GridCell.Tab.0.bottom" timestamp="1592303268261">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="80" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1588156419150" />
-    <state width="1877" height="80" key="GridCell.Tab.0.center" timestamp="1588156419150">
+    <state width="1000" height="195" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1592303268261" />
+    <state width="1000" height="195" key="GridCell.Tab.0.center" timestamp="1592303268261">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="80" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1588156419150" />
-    <state width="1877" height="80" key="GridCell.Tab.0.left" timestamp="1588156419150">
+    <state width="1000" height="195" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1592303268261" />
+    <state width="1000" height="195" key="GridCell.Tab.0.left" timestamp="1592303268261">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="80" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1588156419150" />
-    <state width="1877" height="80" key="GridCell.Tab.0.right" timestamp="1588156419150">
+    <state width="1000" height="195" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1592303268261" />
+    <state width="1000" height="195" key="GridCell.Tab.0.right" timestamp="1592303268261">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="80" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1588156419150" />
+    <state width="1000" height="195" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1592303268261" />
     <state width="1000" height="319" key="GridCell.Tab.1.bottom" timestamp="1587724827488">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -268,6 +273,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1000" height="319" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1587724827488" />
+    <state x="461" y="165" key="SettingsEditor" timestamp="1592210289107">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1592210289107" />
     <state x="1227" y="438" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1587952216805">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -276,6 +285,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="835" y="230" width="885" height="800" key="dock-window-1/0.0.1920.1040@0.0.1920.1040" timestamp="1587453009899" />
+    <state x="616" y="240" key="run.anything.popup" timestamp="1592210264505">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1592210264505" />
     <state x="1145" y="244" width="672" height="678" key="search.everywhere.popup" timestamp="1587545716373">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -287,6 +300,9 @@
     </SUITE>
     <SUITE FILE_PATH="coverage/untitled$Java1.ic" NAME="Java1 Coverage Results" MODIFIED="1585916882949" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>java_exercise_p1.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/java_tutorial$Test.ic" NAME="Test Coverage Results" MODIFIED="1592279233530" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>baitapquanlyhocsinh.*</FILTER>
     </SUITE>
   </component>
 </project>
