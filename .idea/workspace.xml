@@ -20,12 +20,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="20422745-400c-4c1a-b4b9-96c94f5b7355" name="Default Changelist" comment="style">
-      <change afterPath="$PROJECT_DIR$/src/baitapquanlyhocsinh/HoSoHocSinh.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/baitapquanlyhocsinh/Nguoi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/baitapquanlyhocsinh/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/baitapquanlynhanvien/BA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/baitapquanlynhanvien/KiemChungVien.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/baitapquanlynhanvien/LapTrinhVien.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/baitapquanlynhanvien/MainStaff.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/baitapquanlynhanvien/NhanVien.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/baitapquanlythuvien/QLThuVien.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/baitapquanlythuvien/TaiLieu.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled/ChaCon/Java53.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled/ChaCon/Java53.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled/META-INF/untitled.kotlin_module" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,23 +73,11 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../VNDirect/api/d-communication" />
     <property name="settings.editor.selected.configurable" value="preferences.customizations" />
+    <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/src/baitapquanlyhocsinh/Nguoi.java" />
   </component>
-  <component name="RunManager" selected="Application.Test">
-    <configuration name="DateFormat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java_date_time.DateFormat" />
-      <module name="untitled" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="java_date_time.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.QLThuVien">
     <configuration name="Honda4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="trutuong.Honda4" />
       <module name="untitled" />
@@ -114,12 +104,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LopLocalDate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java_date_time.LopLocalDate" />
+    <configuration name="MainStaff" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="baitapquanlynhanvien.MainStaff" />
       <module name="untitled" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="java_date_time.*" />
+          <option name="PATTERN" value="baitapquanlynhanvien.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QLThuVien" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="baitapquanlythuvien.QLThuVien" />
+      <module name="untitled" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="baitapquanlythuvien.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -142,11 +145,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.QLThuVien" />
+        <item itemvalue="Application.MainStaff" />
         <item itemvalue="Application.Test" />
         <item itemvalue="Application.Honda4" />
         <item itemvalue="Application.Java53" />
-        <item itemvalue="Application.DateFormat" />
-        <item itemvalue="Application.LopLocalDate" />
       </list>
     </recent_temporary>
   </component>
@@ -233,46 +236,50 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="770" y="240" key="#Menus_and_Toolbars/0.0.1920.1040@0.0.1920.1040" timestamp="1592210324327" />
-    <state x="1246" y="231" key="#com.intellij.ide.util.MemberChooser" timestamp="1592288203624">
+    <state x="1246" y="231" key="#com.intellij.ide.util.MemberChooser" timestamp="1592470909647">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1246" y="231" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1592288203624" />
-    <state x="1198" y="279" key="FileChooserDialogImpl" timestamp="1588154686810">
+    <state x="1246" y="231" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1592470909647" />
+    <state x="92" y="92" width="1736" height="856" key="DiffContextDialog" timestamp="1592357727451">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1198" y="279" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1588154686810" />
-    <state width="1000" height="195" key="GridCell.Tab.0.bottom" timestamp="1592303268261">
+    <state x="92" y="92" width="1736" height="856" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1592357727451" />
+    <state x="1198" y="279" key="FileChooserDialogImpl" timestamp="1592472166842">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1000" height="195" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1592303268261" />
-    <state width="1000" height="195" key="GridCell.Tab.0.center" timestamp="1592303268261">
+    <state x="1198" y="279" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1592472166842" />
+    <state width="1877" height="164" key="GridCell.Tab.0.bottom" timestamp="1592475775119">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1000" height="195" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1592303268261" />
-    <state width="1000" height="195" key="GridCell.Tab.0.left" timestamp="1592303268261">
+    <state width="1877" height="164" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1592475775119" />
+    <state width="1877" height="164" key="GridCell.Tab.0.center" timestamp="1592475775119">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1000" height="195" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1592303268261" />
-    <state width="1000" height="195" key="GridCell.Tab.0.right" timestamp="1592303268261">
+    <state width="1877" height="164" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1592475775119" />
+    <state width="1877" height="164" key="GridCell.Tab.0.left" timestamp="1592475775118">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1000" height="195" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1592303268261" />
-    <state width="1000" height="319" key="GridCell.Tab.1.bottom" timestamp="1587724827488">
+    <state width="1877" height="164" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1592475775118" />
+    <state width="1877" height="164" key="GridCell.Tab.0.right" timestamp="1592475775119">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1000" height="319" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1587724827488" />
-    <state width="1000" height="319" key="GridCell.Tab.1.center" timestamp="1587724827488">
+    <state width="1877" height="164" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1592475775119" />
+    <state width="1877" height="140" key="GridCell.Tab.1.bottom" timestamp="1592475775115">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1000" height="319" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1587724827488" />
-    <state width="1000" height="319" key="GridCell.Tab.1.left" timestamp="1587724827488">
+    <state width="1877" height="140" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1592475775115" />
+    <state width="1877" height="140" key="GridCell.Tab.1.center" timestamp="1592475775115">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1000" height="319" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1587724827488" />
-    <state width="1000" height="319" key="GridCell.Tab.1.right" timestamp="1587724827488">
+    <state width="1877" height="140" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1592475775115" />
+    <state width="1877" height="140" key="GridCell.Tab.1.left" timestamp="1592475775115">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1000" height="319" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1587724827488" />
+    <state width="1877" height="140" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1592475775115" />
+    <state width="1877" height="140" key="GridCell.Tab.1.right" timestamp="1592475775115">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="140" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1592475775115" />
     <state x="461" y="165" key="SettingsEditor" timestamp="1592210289107">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
