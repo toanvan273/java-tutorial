@@ -20,14 +20,31 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="20422745-400c-4c1a-b4b9-96c94f5b7355" name="Default Changelist" comment="style">
-      <change afterPath="$PROJECT_DIR$/src/baitapquanlynhanvien/BA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/baitapquanlynhanvien/KiemChungVien.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/baitapquanlynhanvien/LapTrinhVien.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/baitapquanlynhanvien/MainStaff.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/baitapquanlynhanvien/NhanVien.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/baitapquanlythuvien/QLThuVien.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/baitapquanlythuvien/TaiLieu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/baitapDAOpattern/DaoPatternMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/baitapDAOpattern/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/baitapDAOpattern/EmployeeDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/baitapDAOpattern/EmployeeDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/baitapdesignpattern/AbstractConsole.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/baitapdesignpattern/ChainPatternExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/baitapdesignpattern/InfoLogger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/baitapdesignpattern/WarningLogger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/baitapinterface/A6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/baitapinterface/HinhHoc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/baitapinterface/HinhTron.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/baitapinterface/HinhTru.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/baitapinterface/HinhTru2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/baitapinterface/MainHinhHoc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/baitapquanlyhocsinh/MainStudent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/baitapquanlyhocsinh/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/baitapquanlyhocsinh/Student.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/baitapquanlyhocsinh/HoSoHocSinh.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/baitapquanlyhocsinh/Nguoi.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/baitapquanlyhocsinh/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/baitapquanlythuvien/QLThuVien.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled/baitapquanlythuvien/QLThuVien.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/baitapquanlyhocsinh/HoSoHocSinh.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/baitapquanlyhocsinh/Nguoi.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/baitapquanlyhocsinh/Test.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,13 +94,13 @@
     <property name="settings.editor.selected.configurable" value="preferences.customizations" />
     <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/src/baitapquanlyhocsinh/Nguoi.java" />
   </component>
-  <component name="RunManager" selected="Application.QLThuVien">
-    <configuration name="Honda4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="trutuong.Honda4" />
+  <component name="RunManager" selected="Application.DaoPatternMain">
+    <configuration name="A6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="baitapinterface.A6" />
       <module name="untitled" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="trutuong.*" />
+          <option name="PATTERN" value="baitapinterface.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -91,12 +108,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Java53" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ChaCon.Java53" />
+    <configuration name="ChainPatternExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="baitapdesignpattern.ChainPatternExample" />
       <module name="untitled" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ChaCon.*" />
+          <option name="PATTERN" value="baitapdesignpattern.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,12 +121,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MainStaff" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="baitapquanlynhanvien.MainStaff" />
+    <configuration name="DaoPatternMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="baitapDAOpattern.DaoPatternMain" />
       <module name="untitled" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="baitapquanlynhanvien.*" />
+          <option name="PATTERN" value="baitapDAOpattern.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,12 +134,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="QLThuVien" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="baitapquanlythuvien.QLThuVien" />
+    <configuration name="MainHinhHoc" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="baitapinterface.MainHinhHoc" />
       <module name="untitled" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="baitapquanlythuvien.*" />
+          <option name="PATTERN" value="baitapinterface.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -130,8 +147,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="baitapquanlyhocsinh.Test" />
+    <configuration name="MainStudent" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="baitapquanlyhocsinh.MainStudent" />
       <module name="untitled" />
       <extension name="coverage">
         <pattern>
@@ -145,11 +162,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.QLThuVien" />
-        <item itemvalue="Application.MainStaff" />
-        <item itemvalue="Application.Test" />
-        <item itemvalue="Application.Honda4" />
-        <item itemvalue="Application.Java53" />
+        <item itemvalue="Application.DaoPatternMain" />
+        <item itemvalue="Application.ChainPatternExample" />
+        <item itemvalue="Application.MainHinhHoc" />
+        <item itemvalue="Application.MainStudent" />
+        <item itemvalue="Application.A6" />
       </list>
     </recent_temporary>
   </component>
@@ -236,34 +253,34 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="770" y="240" key="#Menus_and_Toolbars/0.0.1920.1040@0.0.1920.1040" timestamp="1592210324327" />
-    <state x="1246" y="231" key="#com.intellij.ide.util.MemberChooser" timestamp="1592470909647">
+    <state x="1246" y="231" key="#com.intellij.ide.util.MemberChooser" timestamp="1592821259200">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1246" y="231" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1592470909647" />
+    <state x="1246" y="231" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1592821259200" />
     <state x="92" y="92" width="1736" height="856" key="DiffContextDialog" timestamp="1592357727451">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="92" y="92" width="1736" height="856" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1592357727451" />
-    <state x="1198" y="279" key="FileChooserDialogImpl" timestamp="1592472166842">
+    <state x="1198" y="279" key="FileChooserDialogImpl" timestamp="1592792970550">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1198" y="279" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1592472166842" />
-    <state width="1877" height="164" key="GridCell.Tab.0.bottom" timestamp="1592475775119">
+    <state x="1198" y="279" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1592792970550" />
+    <state width="1200" height="391" key="GridCell.Tab.0.bottom" timestamp="1592822543404">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="164" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1592475775119" />
-    <state width="1877" height="164" key="GridCell.Tab.0.center" timestamp="1592475775119">
+    <state width="1200" height="391" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1592822543404" />
+    <state width="1200" height="391" key="GridCell.Tab.0.center" timestamp="1592822543404">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="164" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1592475775119" />
-    <state width="1877" height="164" key="GridCell.Tab.0.left" timestamp="1592475775118">
+    <state width="1200" height="391" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1592822543404" />
+    <state width="1200" height="391" key="GridCell.Tab.0.left" timestamp="1592822543404">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="164" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1592475775118" />
-    <state width="1877" height="164" key="GridCell.Tab.0.right" timestamp="1592475775119">
+    <state width="1200" height="391" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1592822543404" />
+    <state width="1200" height="391" key="GridCell.Tab.0.right" timestamp="1592822543404">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="164" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1592475775119" />
+    <state width="1200" height="391" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1592822543404" />
     <state width="1877" height="140" key="GridCell.Tab.1.bottom" timestamp="1592475775115">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
