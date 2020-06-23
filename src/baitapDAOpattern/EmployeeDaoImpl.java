@@ -6,10 +6,12 @@ public class EmployeeDaoImpl implements EmployeeDao{
     ArrayList<Employee> alEmp;
     public EmployeeDaoImpl(){
         alEmp = new ArrayList<Employee>();
-        Employee e1 = new Employee(1,"Xuan");
-        Employee e2 = new Employee(2,"Ha");
+        Employee e1 = new Employee(0,"Xuan");
+        Employee e2 = new Employee(1,"Ha");
+        Employee e0 = new Employee(2,"Doi ghe");
         alEmp.add(e1);
         alEmp.add(e2);
+        alEmp.add(e0);
     }
 
     @Override

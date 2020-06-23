@@ -20,31 +20,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="20422745-400c-4c1a-b4b9-96c94f5b7355" name="Default Changelist" comment="style">
-      <change afterPath="$PROJECT_DIR$/src/baitapDAOpattern/DaoPatternMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/baitapDAOpattern/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/baitapDAOpattern/EmployeeDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/baitapDAOpattern/EmployeeDaoImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/baitapdesignpattern/AbstractConsole.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/baitapdesignpattern/ChainPatternExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/baitapdesignpattern/InfoLogger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/baitapdesignpattern/WarningLogger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/baitapinterface/A6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/baitapinterface/HinhHoc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/baitapinterface/HinhTron.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/baitapinterface/HinhTru.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/baitapinterface/HinhTru2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/baitapinterface/MainHinhHoc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/baitapquanlyhocsinh/MainStudent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/baitapquanlyhocsinh/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/baitapquanlyhocsinh/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/baitapDaopattern2/SinhVien.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/baitapDaopattern2/SinhVienDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/baitapDaopattern2/SinhVienImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/baitapDaopattern2/SinhvienMain.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled/baitapquanlyhocsinh/HoSoHocSinh.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled/baitapquanlyhocsinh/Nguoi.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled/baitapquanlyhocsinh/Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled/baitapquanlythuvien/QLThuVien.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled/baitapquanlythuvien/QLThuVien.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/baitapquanlyhocsinh/HoSoHocSinh.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/baitapquanlyhocsinh/Nguoi.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/baitapquanlyhocsinh/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/baitapDAOpattern/DaoPatternMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled/baitapDAOpattern/DaoPatternMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/baitapDAOpattern/EmployeeDaoImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled/baitapDAOpattern/EmployeeDaoImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/baitapDAOpattern/DaoPatternMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/baitapDAOpattern/DaoPatternMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/baitapDAOpattern/EmployeeDaoImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/baitapDAOpattern/EmployeeDaoImpl.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -94,20 +78,7 @@
     <property name="settings.editor.selected.configurable" value="preferences.customizations" />
     <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/src/baitapquanlyhocsinh/Nguoi.java" />
   </component>
-  <component name="RunManager" selected="Application.DaoPatternMain">
-    <configuration name="A6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="baitapinterface.A6" />
-      <module name="untitled" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="baitapinterface.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.SinhvienMain">
     <configuration name="ChainPatternExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="baitapdesignpattern.ChainPatternExample" />
       <module name="untitled" />
@@ -160,13 +131,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SinhvienMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="baitapDaopattern2.SinhvienMain" />
+      <module name="untitled" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="baitapDaopattern2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SinhvienMain" />
         <item itemvalue="Application.DaoPatternMain" />
         <item itemvalue="Application.ChainPatternExample" />
         <item itemvalue="Application.MainHinhHoc" />
         <item itemvalue="Application.MainStudent" />
-        <item itemvalue="Application.A6" />
       </list>
     </recent_temporary>
   </component>
@@ -253,10 +237,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="770" y="240" key="#Menus_and_Toolbars/0.0.1920.1040@0.0.1920.1040" timestamp="1592210324327" />
-    <state x="1246" y="231" key="#com.intellij.ide.util.MemberChooser" timestamp="1592821259200">
+    <state x="1246" y="231" key="#com.intellij.ide.util.MemberChooser" timestamp="1592885521198">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1246" y="231" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1592821259200" />
+    <state x="1246" y="231" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1592885521198" />
     <state x="92" y="92" width="1736" height="856" key="DiffContextDialog" timestamp="1592357727451">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -265,22 +249,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1198" y="279" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1592792970550" />
-    <state width="1200" height="391" key="GridCell.Tab.0.bottom" timestamp="1592822543404">
+    <state width="1877" height="412" key="GridCell.Tab.0.bottom" timestamp="1592908357340">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1200" height="391" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1592822543404" />
-    <state width="1200" height="391" key="GridCell.Tab.0.center" timestamp="1592822543404">
+    <state width="1877" height="412" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1592908357340" />
+    <state width="1877" height="412" key="GridCell.Tab.0.center" timestamp="1592908357340">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1200" height="391" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1592822543404" />
-    <state width="1200" height="391" key="GridCell.Tab.0.left" timestamp="1592822543404">
+    <state width="1877" height="412" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1592908357340" />
+    <state width="1877" height="412" key="GridCell.Tab.0.left" timestamp="1592908357340">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1200" height="391" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1592822543404" />
-    <state width="1200" height="391" key="GridCell.Tab.0.right" timestamp="1592822543404">
+    <state width="1877" height="412" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1592908357340" />
+    <state width="1877" height="412" key="GridCell.Tab.0.right" timestamp="1592908357340">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1200" height="391" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1592822543404" />
+    <state width="1877" height="412" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1592908357340" />
     <state width="1877" height="140" key="GridCell.Tab.1.bottom" timestamp="1592475775115">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -327,6 +311,9 @@
     </SUITE>
     <SUITE FILE_PATH="coverage/java_tutorial$Test.ic" NAME="Test Coverage Results" MODIFIED="1592279233530" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>baitapquanlyhocsinh.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/java_tutorial$SinhvienMain.ic" NAME="SinhvienMain Coverage Results" MODIFIED="1592906342372" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>baitapDaopattern2.*</FILTER>
     </SUITE>
   </component>
 </project>
