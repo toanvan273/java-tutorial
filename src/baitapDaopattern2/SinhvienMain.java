@@ -21,7 +21,7 @@ public class SinhvienMain {
             svEmp.addSinhvien(s);
             try{
 //                FileOutputStream f = new FileOutputStream("D:\\sinhvien.dat");
-                FileOutputStream f = new FileOutputStream("sv.txt",StandardCharsets.UTF_8);
+                FileOutputStream f = new FileOutputStream("sv.txt");
                 ObjectOutputStream ot = new ObjectOutputStream(f);
                 ot.writeObject(s);
                 ot.close();
@@ -31,9 +31,9 @@ public class SinhvienMain {
             }
         }
 
-        for (SinhVien sv: svEmp.getAllSinhvien()){
-            System.out.println("ID: "+sv.getID()+" Ten: "+sv.getName()+" Diem: "+sv.getScore());
-        }
+//        for (SinhVien sv: svEmp.getAllSinhvien()){
+//            System.out.println("ID: "+sv.getID()+" Ten: "+sv.getName()+" Diem: "+sv.getScore());
+//        }
 
 //        FileWriter myWriter = new FileWriter("file.txt", StandardCharsets.UTF_8);
 //        myWriter.write("Files in Java might be tricky, but it is fun enough!");

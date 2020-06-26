@@ -20,11 +20,116 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="20422745-400c-4c1a-b4b9-96c94f5b7355" name="Default Changelist" comment="style">
+      <change afterPath="$PROJECT_DIR$/src/baitapDaopattern2/SVMainV2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/Car.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled/Car.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/ChaCon/Employee.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled/ChaCon/Employee.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/ChaCon/Java52.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled/ChaCon/Java52.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/ChaCon/Java53.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled/ChaCon/Java53.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/ChaCon/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled/ChaCon/Person.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/ChaCon/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled/ChaCon/Student.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/META-INF/untitled.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/MyClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled/MyClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/Oop/A.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled/Oop/A.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/Oop/Java40.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled/Oop/Java40.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/Oop/Java42.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled/Oop/Java42.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/Oop/JavaClass2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled/Oop/JavaClass2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/Oop/JavaContructor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled/Oop/JavaContructor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/Oop/java_documentation/Java50.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled/Oop/java_documentation/Java50.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/Oop/java_package/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled/Oop/java_package/Person.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/Oop/java_package/X.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled/Oop/java_package/X.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/Oop/js$Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled/Oop/js$Person.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/Oop/js.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled/Oop/js.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/Oop/static_fields_and_methods/Bai43.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled/Oop/static_fields_and_methods/Bai43.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/Oop/static_fields_and_methods/Bai44.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled/Oop/static_fields_and_methods/Bai44.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/Oop/static_fields_and_methods/Bai44B.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled/Oop/static_fields_and_methods/Bai44B.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/Oop/static_fields_and_methods/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled/Oop/static_fields_and_methods/Student.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/Oop/static_fields_and_methods/StudentFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled/Oop/static_fields_and_methods/StudentFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/OtherClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled/OtherClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled/Person.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/baitapDAOpattern/DaoPatternMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled/baitapDAOpattern/DaoPatternMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/baitapDAOpattern/Employee.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled/baitapDAOpattern/Employee.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/baitapDAOpattern/EmployeeDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled/baitapDAOpattern/EmployeeDao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/baitapDAOpattern/EmployeeDaoImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled/baitapDAOpattern/EmployeeDaoImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/baitapDaopattern2/SinhVien.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled/baitapDaopattern2/SinhVien.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/baitapDaopattern2/SinhVienDAO.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled/baitapDaopattern2/SinhVienDAO.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/untitled/baitapDaopattern2/SinhVienImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled/baitapDaopattern2/SinhVienImpl.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/untitled/baitapDaopattern2/SinhvienMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled/baitapDaopattern2/SinhvienMain.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/baitapDaopattern2/SinhVienImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/baitapDaopattern2/SinhVienImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/baitapdesignpattern/AbstractConsole.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled/baitapdesignpattern/AbstractConsole.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/baitapdesignpattern/ChainPatternExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled/baitapdesignpattern/ChainPatternExample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/baitapdesignpattern/InfoLogger.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled/baitapdesignpattern/InfoLogger.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/baitapdesignpattern/WarningLogger.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled/baitapdesignpattern/WarningLogger.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/baitapinterface/A6.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled/baitapinterface/A6.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/baitapinterface/HinhHoc.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled/baitapinterface/HinhHoc.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/baitapinterface/HinhTron.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled/baitapinterface/HinhTron.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/baitapinterface/HinhTru.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled/baitapinterface/HinhTru.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/baitapinterface/HinhTru2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled/baitapinterface/HinhTru2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/baitapinterface/MainHinhHoc.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled/baitapinterface/MainHinhHoc.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/baitapinterface/printable.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled/baitapinterface/printable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/baitapinterface/showable.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled/baitapinterface/showable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/baitapquanlyhocsinh/MainStudent.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled/baitapquanlyhocsinh/MainStudent.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/baitapquanlyhocsinh/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled/baitapquanlyhocsinh/Person.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/baitapquanlyhocsinh/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled/baitapquanlyhocsinh/Student.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/baitapquanlynhanvien/BA.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled/baitapquanlynhanvien/BA.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/baitapquanlynhanvien/KiemChungVien.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled/baitapquanlynhanvien/KiemChungVien.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/baitapquanlynhanvien/LapTrinhVien.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled/baitapquanlynhanvien/LapTrinhVien.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/baitapquanlynhanvien/MainStaff.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled/baitapquanlynhanvien/MainStaff.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/baitapquanlynhanvien/NhanVien.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled/baitapquanlynhanvien/NhanVien.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/baitapquanlythuvien/Bao.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled/baitapquanlythuvien/Bao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/baitapquanlythuvien/QLThuVien.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled/baitapquanlythuvien/QLThuVien.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/baitapquanlythuvien/Sach.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled/baitapquanlythuvien/Sach.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/baitapquanlythuvien/TaiLieu.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled/baitapquanlythuvien/TaiLieu.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/baitapquanlythuvien/Tapchi.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled/baitapquanlythuvien/Tapchi.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/codebranch/AbstractPlayer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled/codebranch/AbstractPlayer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/codebranch/GameLogic.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled/codebranch/GameLogic.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/codebranch/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled/codebranch/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/control_flow/Java21.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled/control_flow/Java21.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/control_flow/Java28.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled/control_flow/Java28.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/control_flow/JavaBreak.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled/control_flow/JavaBreak.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/java_array/Java34.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled/java_array/Java34.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/java_array/Java35.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled/java_array/Java35.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/java_date_time/DateFormat.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled/java_date_time/DateFormat.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/java_date_time/LopJavaDate.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled/java_date_time/LopJavaDate.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/java_date_time/LopLocalDate.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled/java_date_time/LopLocalDate.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/java_date_time/LopSimpleDateFormat.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled/java_date_time/LopSimpleDateFormat.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/java_exercise_p1/Java1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled/java_exercise_p1/Java1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/java_exercise_p1/Java3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled/java_exercise_p1/Java3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/java_input_output_console/Java18.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled/java_input_output_console/Java18.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/java_input_output_console/Java19.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled/java_input_output_console/Java19.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/java_input_output_console/Java20.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled/java_input_output_console/Java20.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/java_input_output_console/JavaInput17.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled/java_input_output_console/JavaInput17.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/java_method/Java35.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled/java_method/Java35.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/java_string/JavaString16.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled/java_string/JavaString16.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/model/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled/model/Student.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/mypack/MyPackageClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled/mypack/MyPackageClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/mypack/Vehicle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled/mypack/Vehicle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/mypack/model/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled/mypack/model/Person.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/regular_expressions/RegularExpessionP5.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled/regular_expressions/RegularExpessionP5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/regular_expressions/RegularExpressionP2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled/regular_expressions/RegularExpressionP2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/regular_expressions/RegularExpressionP3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled/regular_expressions/RegularExpressionP3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/regular_expressions/RegularExpressionP4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled/regular_expressions/RegularExpressionP4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/relationship/A.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled/relationship/A.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/relationship/B.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled/relationship/B.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/relationship/C.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled/relationship/C.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/relationship/Java41.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled/relationship/Java41.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/trutuong/A.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled/trutuong/A.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/trutuong/A6.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled/trutuong/A6.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/trutuong/B.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled/trutuong/B.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/trutuong/Bike.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled/trutuong/Bike.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/trutuong/Circle1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled/trutuong/Circle1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/trutuong/Honda4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled/trutuong/Honda4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/trutuong/M.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled/trutuong/M.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/trutuong/Printable.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled/trutuong/Printable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/trutuong/Rectangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled/trutuong/Rectangle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/trutuong/Shape.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled/trutuong/Shape.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/trutuong/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled/trutuong/Student.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/trutuong/Test5.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled/trutuong/Test5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/trutuong/TestAbstraction1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled/trutuong/TestAbstraction1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/trutuong/newplace/A.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled/trutuong/newplace/A.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/trutuong/newplace/B.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled/trutuong/newplace/B.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/baitapDaopattern2/SinhvienMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/baitapDaopattern2/SinhvienMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sv.txt" beforeDir="false" afterPath="$PROJECT_DIR$/sv.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,11 +175,14 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../VNDirect/api/d-communication" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="preferences.customizations" />
     <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/src/baitapquanlyhocsinh/Nguoi.java" />
   </component>
-  <component name="RunManager" selected="Application.SinhvienMain">
+  <component name="RunManager" selected="Application.SVMainV2">
     <configuration name="ChainPatternExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="baitapdesignpattern.ChainPatternExample" />
       <module name="untitled" />
@@ -114,12 +222,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MainStudent" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="baitapquanlyhocsinh.MainStudent" />
+    <configuration name="SVMainV2" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="baitapDaopattern2.SVMainV2" />
       <module name="untitled" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="baitapquanlyhocsinh.*" />
+          <option name="PATTERN" value="baitapDaopattern2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -146,7 +254,6 @@
         <item itemvalue="Application.DaoPatternMain" />
         <item itemvalue="Application.ChainPatternExample" />
         <item itemvalue="Application.MainHinhHoc" />
-        <item itemvalue="Application.MainStudent" />
       </list>
     </recent_temporary>
   </component>
@@ -198,6 +305,7 @@
       <workItem from="1587117826285" duration="1245000" />
       <workItem from="1587119638921" duration="691000" />
       <workItem from="1587346995485" duration="34000" />
+      <workItem from="1593155284897" duration="1568000" />
     </task>
     <task id="LOCAL-00001" summary="style">
       <created>1587952198395</created>
@@ -210,7 +318,7 @@
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="2" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -233,6 +341,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="770" y="240" key="#Menus_and_Toolbars/0.0.1920.1040@0.0.1920.1040" timestamp="1592210324327" />
+    <state x="138" y="23" key="#Project_Structure" timestamp="1593155437237">
+      <screen x="0" y="23" width="1280" height="727" />
+    </state>
+    <state x="138" y="23" key="#Project_Structure/0.23.1280.727@0.23.1280.727" timestamp="1593155437237" />
     <state x="1333" y="355" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1593154547433">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -249,22 +361,26 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1198" y="279" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1592991215049" />
-    <state width="1360" height="409" key="GridCell.Tab.0.bottom" timestamp="1593154497682">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1218" height="210" key="GridCell.Tab.0.bottom" timestamp="1593155461151">
+      <screen x="0" y="23" width="1280" height="727" />
     </state>
     <state width="1360" height="409" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1593154497682" />
-    <state width="1360" height="409" key="GridCell.Tab.0.center" timestamp="1593154497682">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1218" height="210" key="GridCell.Tab.0.bottom/0.23.1280.727@0.23.1280.727" timestamp="1593155461151" />
+    <state width="1218" height="210" key="GridCell.Tab.0.center" timestamp="1593155461139">
+      <screen x="0" y="23" width="1280" height="727" />
     </state>
     <state width="1360" height="409" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1593154497682" />
-    <state width="1360" height="409" key="GridCell.Tab.0.left" timestamp="1593154497682">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1218" height="210" key="GridCell.Tab.0.center/0.23.1280.727@0.23.1280.727" timestamp="1593155461139" />
+    <state width="1218" height="210" key="GridCell.Tab.0.left" timestamp="1593155461129">
+      <screen x="0" y="23" width="1280" height="727" />
     </state>
     <state width="1360" height="409" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1593154497682" />
-    <state width="1360" height="409" key="GridCell.Tab.0.right" timestamp="1593154497682">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1218" height="210" key="GridCell.Tab.0.left/0.23.1280.727@0.23.1280.727" timestamp="1593155461129" />
+    <state width="1218" height="210" key="GridCell.Tab.0.right" timestamp="1593155461151">
+      <screen x="0" y="23" width="1280" height="727" />
     </state>
     <state width="1360" height="409" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1593154497682" />
+    <state width="1218" height="210" key="GridCell.Tab.0.right/0.23.1280.727@0.23.1280.727" timestamp="1593155461151" />
     <state width="1877" height="104" key="GridCell.Tab.1.bottom" timestamp="1592980810812">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -334,6 +450,9 @@
     </SUITE>
     <SUITE FILE_PATH="coverage/java_tutorial$Test.ic" NAME="Test Coverage Results" MODIFIED="1592279233530" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>baitapquanlyhocsinh.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/java_tutorial$SVMainV2.ic" NAME="SVMainV2 Coverage Results" MODIFIED="1593156861072" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>baitapDaopattern2.*</FILTER>
     </SUITE>
     <SUITE FILE_PATH="coverage/java_tutorial$SinhvienMain.ic" NAME="SinhvienMain Coverage Results" MODIFIED="1592906342372" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>baitapDaopattern2.*</FILTER>
