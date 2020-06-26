@@ -1,6 +1,5 @@
 package baitapDaopattern2;
 
-import java.io.File;
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
@@ -15,9 +14,15 @@ public class SinhVienImpl implements SinhVienDAO{
         return SvArr;
     }
 
+//    @Override
+//    public Optional<SinhVien> getSinhvien(String ID) {
+//        return SvArr.stream().filter(s -> s.getID().equals(ID)).findFirst();
+//    }
+
     @Override
     public Optional<SinhVien> getSinhvien(String ID) {
-        return SvArr.stream().filter(s -> s.getID().equals(ID)).findFirst();
+        System.out.println(SvArr.toArray());
+        return SvArr.stream().filter(s -> ID.equals(s.getID())).findFirst();
     }
 
     @Override
