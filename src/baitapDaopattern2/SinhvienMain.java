@@ -27,9 +27,9 @@ public class SinhvienMain {
 //            svEmp.addSinhvien(s);
 //        }
 //
-        for (SinhVien sv: svEmp.getAllSinhvien()){
-            System.out.println("ID: "+sv.getID()+" Ten: "+sv.getName()+" Diem: "+sv.getScore());
-        }
+//        for (SinhVien sv: svEmp.getAllSinhvien()){
+//            System.out.println("ID: "+sv.getID()+" Ten: "+sv.getName()+" Diem: "+sv.getScore());
+//        }
 
 //        FileWriter myWriter = new FileWriter("file.txt", StandardCharsets.UTF_8);
 //        myWriter.write("Files in Java might be tricky, but it is fun enough!");
