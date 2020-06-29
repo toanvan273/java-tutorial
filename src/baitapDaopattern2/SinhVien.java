@@ -6,11 +6,11 @@ public class SinhVien {
     private String ID;
     private String name;
     private float score;
-//    public SinhVien(String ID,String name,float score){
-//        this.ID = ID;
-//        this.name = name;
-//        this.score = score;
-//    }
+    public SinhVien(String ID,String name,float score){
+        this.ID = ID;
+        this.name = name;
+        this.score = score;
+    }
     public String getID() {
         return ID;
     }
