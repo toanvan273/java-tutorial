@@ -15,39 +15,10 @@ public class SinhvienMain {
         svEmp.addSinhvien(e0);
         svEmp.addSinhvien(e1);
         svEmp.addSinhvien(e2);
-
-
-//        Scanner scanner = new Scanner(System.in);
-//        System.out.println("Nhap so SV:");
-//        int soSV = scanner.nextInt();
-//
-//        for (int i = 0; i < soSV; i++) {
-//            SinhVien s = new SinhVien();
-//            s.input();
-//            svEmp.addSinhvien(s);
-//        }
-//
-//        for (SinhVien sv: svEmp.getAllSinhvien()){
-//            System.out.println("ID: "+sv.getID()+" Ten: "+sv.getName()+" Diem: "+sv.getScore());
-//        }
-
-//        FileWriter myWriter = new FileWriter("file.txt", StandardCharsets.UTF_8);
-//        myWriter.write("Files in Java might be tricky, but it is fun enough!");
-//        int chose = scanner.nextInt();
-//        if(chose==1){
-//            System.out.println("Nhap ID sv muon xoa");
-//            String IDxoa = scanner.nextLine();
-//            SinhVien s = svEmp.getSinhvien(IDxoa).get();
-//            System.out.println("s: "+s.toString());
-//        }else if(chose==2){
-//            System.out.println("Nghỉ nghỉ");
-//
-//        }else {
-//            System.out.println("Chon sai roi, ong noi oi");
-//        }
-//        for (SinhVien sv: svEmp.getAllSinhvien()){
-//            System.out.println("ID: "+sv.getID()+" Ten: "+sv.getName()+" Diem: "+sv.getScore());
-//        }
+        for (SinhVien sv: svEmp.getAllSinhvien()){
+            System.out.println("ID: "+sv.getID()+" Ten: "+sv.getName()+" Diem: "+sv.getScore());
+//            System.out.println();
+        }
     }
 }
 

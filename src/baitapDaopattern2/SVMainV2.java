@@ -7,7 +7,7 @@ import java.io.ObjectOutputStream;
 
 public class SVMainV2 {
     public static void main(String[] args) throws IOException {
-        SinhVien a = new SinhVien();
+        SinhVien a = new SinhVien("Nha","T",9);
         a.input();
         try{
             FileOutputStream f = new FileOutputStream("svv2.dat");

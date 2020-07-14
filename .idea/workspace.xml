@@ -19,34 +19,169 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="20422745-400c-4c1a-b4b9-96c94f5b7355" name="Default Changelist" comment="style">
+    <list default="true" id="a89b180f-179e-4c63-8ecd-42ebfa0ff92f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/java-tutorial.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/baitapDaopattern2/ThemSuaXoa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/baitapDaopattern2/ThemSuaXoaObj.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/2/029dfd4797368bfce5c2cb772c60b54a595ad1c6" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/3/03235062111c3d6a68796eb6bb4a3a36c9638301" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/4/04b36e061a766fb902ac604a0f91fbca241f510c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/7/077da43c8b07f1b0cba380a975598a0396b6e818" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/9/098bac9b7541f067870a756b967eb9052846d955" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/c/0c09cbdba1d8cb9f59412db8e36feb89d8f76e74" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/e/0e4b3d53e4c795ad933697b152bfc19a9b97fdaf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/5/15d9aaeea1edd07309f4e765e2a5c5dae2a2daf7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/8/182110826a276f6c8c7321c339bbed96bbe346c2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/3/237426c8041c5a180ed4abd7c37084fa12f5b3b0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/5/25eddbcac281b3fbf17635d5b357e39534a380c8" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/a/2a1104a02fe85067bfb58e396cd34b519b5269ab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/c/2c823fbc05105bd52ab49d45f5bb93f3ad2f4b95" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/1/315a9661594cd8d20e42e2770ff36bf97cb54121" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/2/3273df03c96e5be8810d9de2a0a8f7a67c7bba6c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/a/3a87113ed34ba3f36feede8b12cd405a2f929207" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/b/3b02a706ed40f437e4f2e552525934b0308d4118" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/9/59318d9f76742e367cbcbe3f2ce37bbf0912c673" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/d/6d27b87275c440c555368c28e6b6c7e901a014d6" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/e/6ea887f4454a88870d0d370a7c2b4ccff5e6dc18" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/7/772c074057598b002c382bf42589e851a741a5eb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/9/79e701957ab976cc4013272baf4e5d995bf4491f" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/a/8a0a145fc3c8eb6b0aa1532578aa00d3e670c19a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/e/8ec0b8636312faf97fa56c7395da52b1255c6c41" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/3/9342cf739b15b9c24912962dd5f0e0db0c0caa0d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/8/985f3ed5f3391859807ba5dd8660eff6130a429c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/3/a3270d0cefd2f3429ef88c960f52a0cf29da7f16" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/1/b14a73258ce436ac8b61b8341ea0f3a0b8933147" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/1/b184f31bfb9ced4bafd8971d7b0c4bbc3ab48d9a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/7/b72248f4d5f18023c7a5ff2bf4b7cbe38e21eb20" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/c/bcb766d2cd318b42fc44d7d7f31cf02bdc9b0e07" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/f/bf0081753f9be1f11cbdd4ce824a27e601a83ae8" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/5/c5c16db6d512cdecfbfe49ddc38f9f6720b9e79c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/8/d8dc10c94e000fa74f847af17327eb2012574cca" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/e/de08e16ed33864dd19da62c03cbf58b3bd451a0f" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/0/f0c4ac08b9e0c96f5c0eaf3057e0b2de670219e3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/baitapDaopattern2/SinhVien.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/baitapDaopattern2/SinhVien.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/Car.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/ChaCon/Employee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/ChaCon/Java52.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/ChaCon/Java53.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/ChaCon/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/ChaCon/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/MyClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/Oop/A.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/Oop/Java40.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/Oop/Java42.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/Oop/JavaClass2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/Oop/JavaContructor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/Oop/java_documentation/Java50.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/Oop/java_package/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/Oop/java_package/X.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/Oop/js$Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/Oop/js.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/Oop/static_fields_and_methods/Bai43.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/Oop/static_fields_and_methods/Bai44.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/Oop/static_fields_and_methods/Bai44B.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/Oop/static_fields_and_methods/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/Oop/static_fields_and_methods/StudentFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/OtherClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/baitapDAOpattern/DaoPatternMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/baitapDAOpattern/Employee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/baitapDAOpattern/EmployeeDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/baitapDAOpattern/EmployeeDaoImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/baitapDaopattern2/SVMainV2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/baitapDaopattern2/SinhVien.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/baitapDaopattern2/SinhVienDAO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/baitapDaopattern2/SinhVienImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/baitapDaopattern2/SinhvienMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/baitapdesignpattern/AbstractConsole.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/baitapdesignpattern/ChainPatternExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/baitapdesignpattern/InfoLogger.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/baitapdesignpattern/WarningLogger.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/baitapinterface/A6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/baitapinterface/HinhHoc.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/baitapinterface/HinhTron.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/baitapinterface/HinhTru.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/baitapinterface/HinhTru2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/baitapinterface/MainHinhHoc.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/baitapinterface/printable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/baitapinterface/showable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/baitapquanlyhocsinh/MainStudent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/baitapquanlyhocsinh/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/baitapquanlyhocsinh/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/baitapquanlynhanvien/BA.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/baitapquanlynhanvien/KiemChungVien.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/baitapquanlynhanvien/LapTrinhVien.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/baitapquanlynhanvien/MainStaff.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/baitapquanlynhanvien/NhanVien.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/baitapquanlythuvien/Bao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/baitapquanlythuvien/QLThuVien.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/baitapquanlythuvien/Sach.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/baitapquanlythuvien/TaiLieu.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/baitapquanlythuvien/Tapchi.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/codebranch/AbstractPlayer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/codebranch/GameLogic.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/codebranch/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/control_flow/Java21.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/control_flow/Java28.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/control_flow/JavaBreak.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/java_array/Java34.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/java_array/Java35.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/java_date_time/DateFormat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/java_date_time/LopJavaDate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/java_date_time/LopLocalDate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/java_date_time/LopSimpleDateFormat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/java_exercise_p1/Java1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/java_exercise_p1/Java3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/java_input_output_console/Java18.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/java_input_output_console/Java19.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/java_input_output_console/Java20.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/java_input_output_console/JavaInput17.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/java_method/Java35.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/java_string/JavaString16.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/model/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/mypack/MyPackageClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/mypack/Vehicle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/mypack/model/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/regular_expressions/RegularExpessionP5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/regular_expressions/RegularExpressionP2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/regular_expressions/RegularExpressionP3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/regular_expressions/RegularExpressionP4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/relationship/A.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/relationship/B.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/relationship/C.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/relationship/Java41.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/trutuong/A.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/trutuong/A6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/trutuong/B.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/trutuong/Bike.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/trutuong/Circle1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/trutuong/Honda4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/trutuong/M.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/trutuong/Printable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/trutuong/Rectangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/trutuong/Shape.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/trutuong/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/trutuong/Test5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/trutuong/TestAbstraction1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/trutuong/newplace/A.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/trutuong/newplace/B.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/baitapDaopattern2/SVMainV2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/baitapDaopattern2/SVMainV2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/baitapDaopattern2/SinhvienMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/baitapDaopattern2/SinhvienMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/svv2.dat" beforeDir="false" afterPath="$PROJECT_DIR$/svv2.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled.iml" beforeDir="false" afterPath="$PROJECT_DIR$/untitled.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="DatabaseView">
-    <option name="SHOW_INTERMEDIATE" value="true" />
-    <option name="GROUP_DATA_SOURCES" value="true" />
-    <option name="GROUP_SCHEMA" value="true" />
-    <option name="GROUP_CONTENTS" value="false" />
-    <option name="SORT_POSITIONED" value="false" />
-    <option name="SHOW_EMPTY_GROUPS" value="false" />
-    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
-    <option name="HIDDEN_KINDS">
-      <set />
-    </option>
-    <expand />
-    <select />
-  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -54,10 +189,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="1ZFZZZO8n1dxUEZavMMGM1bncoF" />
-  <component name="ProjectLevelVcsManager">
-    <ConfirmationsSetting value="2" id="Add" />
-  </component>
+  <component name="ProjectId" id="1e1Uz2ICwwF2C7n9awdDsAf4bHy" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -66,42 +198,12 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../VNDirect/api/d-communication" />
-    <property name="settings.editor.selected.configurable" value="preferences.customizations" />
-    <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/src/baitapquanlyhocsinh/Nguoi.java" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Application.SinhvienMain">
-    <configuration name="ChainPatternExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="baitapdesignpattern.ChainPatternExample" />
-      <module name="untitled" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="baitapdesignpattern.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DaoPatternMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="baitapDAOpattern.DaoPatternMain" />
-      <module name="untitled" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="baitapDAOpattern.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.MainHinhHoc">
     <configuration name="MainHinhHoc" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="baitapinterface.MainHinhHoc" />
-      <module name="untitled" />
+      <module name="java-tutorial" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="baitapinterface.*" />
@@ -112,12 +214,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MainStudent" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="baitapquanlyhocsinh.MainStudent" />
-      <module name="untitled" />
+    <configuration name="SVMainV2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="baitapDaopattern2.SVMainV2" />
+      <module name="java-tutorial" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="baitapquanlyhocsinh.*" />
+          <option name="PATTERN" value="baitapDaopattern2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -127,7 +229,33 @@
     </configuration>
     <configuration name="SinhvienMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="baitapDaopattern2.SinhvienMain" />
-      <module name="untitled" />
+      <module name="java-tutorial" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="baitapDaopattern2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ThemSuaXoa" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="baitapDaopattern2.ThemSuaXoa" />
+      <module name="java-tutorial" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="baitapDaopattern2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ThemSuaXoaObj" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="baitapDaopattern2.ThemSuaXoaObj" />
+      <module name="java-tutorial" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="baitapDaopattern2.*" />
@@ -140,11 +268,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SinhvienMain" />
-        <item itemvalue="Application.DaoPatternMain" />
-        <item itemvalue="Application.ChainPatternExample" />
         <item itemvalue="Application.MainHinhHoc" />
-        <item itemvalue="Application.MainStudent" />
+        <item itemvalue="Application.ThemSuaXoaObj" />
+        <item itemvalue="Application.ThemSuaXoa" />
+        <item itemvalue="Application.SinhvienMain" />
+        <item itemvalue="Application.SVMainV2" />
       </list>
     </recent_temporary>
   </component>
@@ -153,62 +281,13 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="20422745-400c-4c1a-b4b9-96c94f5b7355" name="Default Changelist" comment="" />
-      <created>1584436858194</created>
+      <changelist id="a89b180f-179e-4c63-8ecd-42ebfa0ff92f" name="Default Changelist" comment="" />
+      <created>1593488851088</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1584436858194</updated>
-      <workItem from="1584436864826" duration="2042000" />
-      <workItem from="1585046509958" duration="386000" />
-      <workItem from="1585103544774" duration="15316000" />
-      <workItem from="1585189342225" duration="6298000" />
-      <workItem from="1585214918126" duration="5227000" />
-      <workItem from="1585281396843" duration="6432000" />
-      <workItem from="1585624515777" duration="13854000" />
-      <workItem from="1585721749442" duration="14332000" />
-      <workItem from="1585904561617" duration="6680000" />
-      <workItem from="1586144886578" duration="13296000" />
-      <workItem from="1586233427355" duration="2992000" />
-      <workItem from="1586426687638" duration="1792000" />
-      <workItem from="1586428512181" duration="2057000" />
-      <workItem from="1586442616890" duration="1790000" />
-      <workItem from="1586921265110" duration="1783000" />
-      <workItem from="1586923072435" duration="1393000" />
-      <workItem from="1586924902170" duration="949000" />
-      <workItem from="1586931241482" duration="1813000" />
-      <workItem from="1586934435397" duration="55000" />
-      <workItem from="1586934524467" duration="1486000" />
-      <workItem from="1586936528404" duration="3000" />
-      <workItem from="1586936882236" duration="66000" />
-      <workItem from="1586937238231" duration="600000" />
-      <workItem from="1586941464907" duration="1787000" />
-      <workItem from="1586943277294" duration="620000" />
-      <workItem from="1587002698893" duration="1666000" />
-      <workItem from="1587008464145" duration="1666000" />
-      <workItem from="1587010277715" duration="1654000" />
-      <workItem from="1587028261009" duration="1001000" />
-      <workItem from="1587092641258" duration="1468000" />
-      <workItem from="1587104075673" duration="1664000" />
-      <workItem from="1587105888389" duration="994000" />
-      <workItem from="1587106904690" duration="1216000" />
-      <workItem from="1587111243603" duration="1822000" />
-      <workItem from="1587114853580" duration="1240000" />
-      <workItem from="1587117826285" duration="1245000" />
-      <workItem from="1587119638921" duration="691000" />
-      <workItem from="1587346995485" duration="34000" />
+      <updated>1593488851088</updated>
     </task>
-    <task id="LOCAL-00001" summary="style">
-      <created>1587952198395</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1587952198395</updated>
-    </task>
-    <option name="localTasksCounter" value="2" />
     <servers />
-  </component>
-  <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -222,119 +301,30 @@
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="style" />
-    <option name="LAST_COMMIT_MESSAGE" value="style" />
-  </component>
   <component name="WindowStateProjectService">
-    <state x="770" y="240" key="#Menus_and_Toolbars" timestamp="1592210324327">
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1593765562699">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="770" y="240" key="#Menus_and_Toolbars/0.0.1920.1040@0.0.1920.1040" timestamp="1592210324327" />
-    <state x="1333" y="355" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1593154547433">
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1593765562699" />
+    <state width="914" height="377" key="GridCell.Tab.0.bottom" timestamp="1594636814218">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1333" y="355" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1593154547433" />
-    <state x="1246" y="231" key="#com.intellij.ide.util.MemberChooser" timestamp="1592885521198">
+    <state width="914" height="377" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1594636814218" />
+    <state width="914" height="377" key="GridCell.Tab.0.center" timestamp="1594636814218">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1246" y="231" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1592885521198" />
-    <state x="92" y="92" width="1736" height="856" key="DiffContextDialog" timestamp="1592357727451">
+    <state width="914" height="377" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1594636814218" />
+    <state width="914" height="377" key="GridCell.Tab.0.left" timestamp="1594636814218">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="92" y="92" width="1736" height="856" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1592357727451" />
-    <state x="1198" y="279" key="FileChooserDialogImpl" timestamp="1593419969773">
+    <state width="914" height="377" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1594636814218" />
+    <state width="914" height="377" key="GridCell.Tab.0.right" timestamp="1594636814218">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1198" y="279" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1593419969773" />
-    <state width="1877" height="7" key="GridCell.Tab.0.bottom" timestamp="1593426226096">
+    <state width="914" height="377" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1594636814218" />
+    <state x="410" y="146" key="new project wizard" timestamp="1593765564473">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="7" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1593426226096" />
-    <state width="1877" height="7" key="GridCell.Tab.0.center" timestamp="1593426226096">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="7" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1593426226096" />
-    <state width="1877" height="7" key="GridCell.Tab.0.left" timestamp="1593426226096">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="7" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1593426226096" />
-    <state width="1877" height="7" key="GridCell.Tab.0.right" timestamp="1593426226096">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="7" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1593426226096" />
-    <state width="1877" height="104" key="GridCell.Tab.1.bottom" timestamp="1592980810812">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="104" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1592980810812" />
-    <state width="1877" height="104" key="GridCell.Tab.1.center" timestamp="1592980810812">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="104" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1592980810812" />
-    <state width="1877" height="104" key="GridCell.Tab.1.left" timestamp="1592980810812">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="104" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1592980810812" />
-    <state width="1877" height="104" key="GridCell.Tab.1.right" timestamp="1592980810812">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="104" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1592980810812" />
-    <state x="461" y="165" key="SettingsEditor" timestamp="1592210289107">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="461" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1592210289107" />
-    <state x="1227" y="438" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1587952216805">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="1227" y="438" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1587952216805" />
-    <state x="835" y="230" width="885" height="800" key="dock-window-1" timestamp="1587453009899">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="835" y="230" width="885" height="800" key="dock-window-1/0.0.1920.1040@0.0.1920.1040" timestamp="1587453009899" />
-    <state x="1049" y="284" width="585" height="530" key="find.popup" timestamp="1593143832524">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="1049" y="284" width="585" height="530" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1593143832524" />
-    <state x="616" y="240" key="run.anything.popup" timestamp="1592210264505">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1592210264505" />
-    <state x="1145" y="244" width="672" height="678" key="search.everywhere.popup" timestamp="1587545716373">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="1145" y="244" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1587545716373" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/baitapDaopattern2/SinhVienImpl.java</url>
-          <line>23</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/baitapDaopattern2/SinhVienImpl.java</url>
-          <line>24</line>
-          <properties>
-            <option name="lambda-ordinal" value="-1" />
-          </properties>
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
-  </component>
-  <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/untitled$Java34.ic" NAME="Java34 Coverage Results" MODIFIED="1586155745941" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
-      <FILTER>java_array.*</FILTER>
-    </SUITE>
-    <SUITE FILE_PATH="coverage/untitled$Java1.ic" NAME="Java1 Coverage Results" MODIFIED="1585916882949" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
-      <FILTER>java_exercise_p1.*</FILTER>
-    </SUITE>
-    <SUITE FILE_PATH="coverage/java_tutorial$Test.ic" NAME="Test Coverage Results" MODIFIED="1592279233530" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
-      <FILTER>baitapquanlyhocsinh.*</FILTER>
-    </SUITE>
-    <SUITE FILE_PATH="coverage/java_tutorial$SinhvienMain.ic" NAME="SinhvienMain Coverage Results" MODIFIED="1592906342372" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
-      <FILTER>baitapDaopattern2.*</FILTER>
-    </SUITE>
+    <state x="410" y="146" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1593765564473" />
   </component>
 </project>

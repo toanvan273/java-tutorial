@@ -1,9 +1,0 @@
-
-Z	java:S106 "9Replace this use of System.out or System.err by a logger.(¶åçêıÿÿÿÿ8ÎÄÉ½˜.
-U	java:S106%"9Replace this use of System.out or System.err by a logger.(¦®“†8ÎÄÉ½˜.
-X	java:S125"<This block of commented-out lines of code should be removed.(Û³åö8æ—È½˜.
-]	java:S125"<This block of commented-out lines of code should be removed.(‹ã¼©ùÿÿÿÿ8æ—È½˜.
-Z	java:S106#"9Replace this use of System.out or System.err by a logger.(ùşŸÓÿÿÿÿÿ8ÎÄÉ½˜.
-¢
-java:S1862""„This branch can not be reached because the condition duplicates a previous condition in the same sequence of "if/else if" statements(œêß8ÎÄÉ½˜.
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(Ç€¹Çşÿÿÿÿ8ÎÄÉ½˜.

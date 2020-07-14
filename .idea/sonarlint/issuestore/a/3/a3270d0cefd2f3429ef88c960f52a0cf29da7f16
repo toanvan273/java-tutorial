@@ -1,17 +1,0 @@
-
-J
-java:S1481"-Remove this unused "booleans" local variable.(ëëïÙ8ãçÕó”.
-K
-java:S1481")Remove this unused "arr2" local variable.(Š•Ô×şÿÿÿÿ8Ÿ‘Ùô”.
-Y
-java:S1854"<Remove this useless assignment to local variable "booleans".(ëëïÙ8ÜÀÙó”.
-]	java:S125"<This block of commented-out lines of code should be removed.(ïÁûÿÿÿÿ8‘™Óó”.
-]
-java:S1854";Remove this useless assignment to local variable "strings".(ÃË Œùÿÿÿÿ8ûšğô”.
-Z	java:S106="9Replace this use of System.out or System.err by a logger.(Ø÷øÿÿÿÿ8éÇ÷ô”.
-N
-java:S1481",Remove this unused "strings" local variable.(ÃË Œùÿÿÿÿ8ûšğô”.
-Z
-java:S1854"8Remove this useless assignment to local variable "arr2".(Š•Ô×şÿÿÿÿ8Ÿ‘Ùô”.
-X	java:S125"<This block of commented-out lines of code should be removed.(•İ¹É8ûšğô”.
-W	java:S125%"<This block of commented-out lines of code should be removed.(ü¬×8ØöÆô”.
