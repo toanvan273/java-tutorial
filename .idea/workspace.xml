@@ -20,11 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a89b180f-179e-4c63-8ecd-42ebfa0ff92f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/baitapCollection/Controller.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/baitapCollection/People.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/baitapCollection/StudentX.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/baitapCollection/TestCollection.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/baitap18/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/baitap18/Student.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,18 +48,18 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../VNDirect/api/d-communication" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
-  <component name="RunManager" selected="Application.TestCollection">
-    <configuration name="MainHinhHoc" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="baitapinterface.MainHinhHoc" />
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="baitap18.Main" />
       <module name="java-tutorial" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="baitapinterface.*" />
+          <option name="PATTERN" value="baitap18.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -70,12 +67,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SinhvienMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="baitapDaopattern2.SinhvienMain" />
+    <configuration name="MainHinhHoc" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="baitapinterface.MainHinhHoc" />
       <module name="java-tutorial" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="baitapDaopattern2.*" />
+          <option name="PATTERN" value="baitapinterface.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,11 +121,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.TestCollection" />
         <item itemvalue="Application.MainHinhHoc" />
         <item itemvalue="Application.ThemSuaXoaObj" />
         <item itemvalue="Application.ThemSuaXoa" />
-        <item itemvalue="Application.SinhvienMain" />
       </list>
     </recent_temporary>
   </component>
@@ -158,30 +155,30 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1185" y="275" key="#com.intellij.ide.util.MemberChooser" timestamp="1594782152837">
+    <state x="1185" y="275" key="#com.intellij.ide.util.MemberChooser" timestamp="1594870801442">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1185" y="275" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1594782152837" />
-    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1594806168950">
+    <state x="1185" y="275" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1594870801442" />
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1594863524240">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1594806168950" />
-    <state width="914" height="337" key="GridCell.Tab.0.bottom" timestamp="1594809018144">
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1594863524240" />
+    <state width="1139" height="326" key="GridCell.Tab.0.bottom" timestamp="1594894121680">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="914" height="337" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1594809018144" />
-    <state width="914" height="337" key="GridCell.Tab.0.center" timestamp="1594809018142">
+    <state width="1139" height="326" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1594894121680" />
+    <state width="1139" height="326" key="GridCell.Tab.0.center" timestamp="1594894121680">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="914" height="337" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1594809018142" />
-    <state width="914" height="337" key="GridCell.Tab.0.left" timestamp="1594809018142">
+    <state width="1139" height="326" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1594894121680" />
+    <state width="1139" height="326" key="GridCell.Tab.0.left" timestamp="1594894121680">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="914" height="337" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1594809018142" />
-    <state width="914" height="337" key="GridCell.Tab.0.right" timestamp="1594809018142">
+    <state width="1139" height="326" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1594894121680" />
+    <state width="1139" height="326" key="GridCell.Tab.0.right" timestamp="1594894121680">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="914" height="337" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1594809018142" />
+    <state width="1139" height="326" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1594894121680" />
     <state x="572" y="184" key="SettingsEditor" timestamp="1594717237566">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
