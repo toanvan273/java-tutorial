@@ -83,7 +83,7 @@ public class Main {
 
                         oos.writeObject(studentList);
                     }catch (Exception e){
-
+                        e.printStackTrace();
                     }finally {
                         try{
                             if(fos != null){
