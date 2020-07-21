@@ -8,7 +8,8 @@ public class    Test {
         t2.start();
         t2.join();
         t1.join();
-
+        t1.start();
+        t2.start();
         System.out.println("In ra ket qua T1");
         System.out.println(t1.list1);
 

@@ -15,7 +15,7 @@ public class Thread2 extends Thread{
                 char c = (char)('a'+rd.nextInt(26));
                 System.out.println("char ; "+c);
                 list2.add(c);
-                Thread.sleep(2000);
+                Thread.sleep(200);
             } catch (InterruptedException e) {
                 e.printStackTrace();
             }
