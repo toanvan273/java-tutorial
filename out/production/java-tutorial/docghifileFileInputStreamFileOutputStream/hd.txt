@@ -1,0 +1,12 @@
+- File: Luu chu data
+    - text -> read
+    - binary -> ko doc (image) ->
+    - text + binany ->
+
+- File
+    - read/write (text + binary)
+
+- 3 buoc
+    - mo ket noi (mo file) ->
+    - read/write
+    - dong ket noi file
