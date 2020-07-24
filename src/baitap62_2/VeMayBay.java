@@ -64,9 +64,7 @@ public class VeMayBay implements Serializable {
     }
     public  void input(){
         Scanner scanner = new Scanner(System.in);
-
         System.out.println("Nhap ma ve :");
-
         while (true){
             id = scanner.nextLine();
             String pattermStr = "";
@@ -84,7 +82,6 @@ public class VeMayBay implements Serializable {
             System.out.println("pattermStr :"+pattermStr);
 
             Pattern pattern = Pattern.compile(pattermStr);
-            System.out.println("P :"+pattern);
             Matcher matcher = pattern.matcher(id);
             if(matcher.find()){
                 System.out.println("Dung roi!"+matcher.find());

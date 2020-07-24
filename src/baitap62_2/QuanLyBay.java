@@ -1,7 +1,5 @@
 package baitap62_2;
 
-import com.sun.source.tree.LiteralTree;
-
 import java.io.*;
 import java.util.*;
 
@@ -52,21 +50,31 @@ public class QuanLyBay {
                     remove(list);
                     break;
                 case 10:
+                    vonglap(list);
+                    break;
+                case 21:
                     System.out.println("Thoat !!!");
                     break;
                 default:
                     continue;
             }
-        }while (choose!=10);
+        }while (choose!=21);
+    }
+    static void vonglap(List<VeMayBay> list){
+        Iterator<VeMayBay> it = list.iterator();
+//        System.out.println("it :"+it.hasNext());
+        while (it.hasNext()){
+            VeMayBay veMayBay = it.next();
+            if(veMayBay.getId().isEmpty()){
+                it.remove();
+            }
+        }
+        save(list, "quanlybay.dat");
     }
     static void remove(List<VeMayBay> list){
         Scanner scanner = new Scanner(System.in);
-//        scanner.nextLine();
         System.out.println("Xoa ve co id la");
-
         String uID = scanner.nextLine();
-        System.out.println("list :"+list);
-        System.out.println("uID ===>"+uID);
         Iterator<VeMayBay> iterable = list.iterator();
         while (iterable.hasNext()){
             VeMayBay veMayBay = iterable.next();
@@ -74,8 +82,7 @@ public class QuanLyBay {
                 iterable.remove();
             }
         }
-
-        System.out.println("List :"+list);
+        save(list, "quanlybay.dat");
     }
     static void input(List<VeMayBay> list){
         System.out.println("Nhap so ve tren chuyen bay");
@@ -165,7 +172,8 @@ public class QuanLyBay {
         System.out.println("7. In list VietJet Air");
         System.out.println("8. In list Jetstar");
         System.out.println("9. Xoa ve co ID la");
-        System.out.println("10. Thoat!");
+        System.out.println("10. Xoa ve co ID rong");
+        System.out.println("21. Thoat!");
         System.out.println("Choose");
     }
 }

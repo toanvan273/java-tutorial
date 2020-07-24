@@ -1,0 +1,80 @@
+﻿ [
+   {
+     "information": {
+       "name": "T1837A",
+       "address": "detech Building"
+     },
+     "studentList": [
+       {
+         "fullname": "Tran Van A",
+         "birthday": "01-01-1991",
+         "email": "tranvana@gmail.com",
+         "gender": "Nam"
+       },
+       {
+         "fullname": "Tran Van b",
+         "birthday": "01-01-1991",
+         "email": "tranvana@gmail.com",
+         "gender": "Nam"
+       },
+       {
+         "fullname": "Tran Van b",
+         "birthday": "01-01-1991",
+         "email": "tranvana@gmail.com",
+         "gender": "Nam"
+       }
+     ]
+   },
+   {
+     "information": {
+       "name": "T18312B",
+       "address": "detech Building"
+     },
+     "studentList": [
+       {
+         "fullname": "Tran Van A",
+         "birthday": "01-01-1991",
+         "email": "tranvana@gmail.com",
+         "gender": "Nam"
+       },
+       {
+         "fullname": "Tran Van b",
+         "birthday": "01-01-1991",
+         "email": "tranvana@gmail.com",
+         "gender": "Nam"
+       },
+       {
+         "fullname": "Tran Van b",
+         "birthday": "01-01-1991",
+         "email": "tranvana@gmail.com",
+         "gender": "Nam"
+       }
+     ]
+   },
+   {
+     "information": {
+       "name": "T183C",
+       "address": "detech Building"
+     },
+     "studentList": [
+       {
+         "fullname": "Tran Van A",
+         "birthday": "01-01-1991",
+         "email": "tranvana@gmail.com",
+         "gender": "Nam"
+       },
+       {
+         "fullname": "Tran Van b",
+         "birthday": "01-01-1991",
+         "email": "tranvana@gmail.com",
+         "gender": "Nam"
+       },
+       {
+         "fullname": "Tran Van b",
+         "birthday": "01-01-1991",
+         "email": "tranvana@gmail.com",
+         "gender": "Nam"
+       }
+     ]
+   }
+ ]
