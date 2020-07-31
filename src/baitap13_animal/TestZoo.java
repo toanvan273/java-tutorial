@@ -70,8 +70,11 @@ public class TestZoo {
         }
         if (cout>0){
             System.out.println("ID :"+idA+" da dc xoa");
+            save(zoo, "zoofile.dat");
+        }else{
+            System.out.println("ID : "+idA+ " Không tồn tại");
         }
-        save(zoo, "zoofile.dat");
+
     }
     static void addNewAnimal(Zoo zoo){
         System.out.println("Nhap ma chuong");

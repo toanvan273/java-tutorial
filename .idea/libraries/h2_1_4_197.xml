@@ -1,7 +1,7 @@
 <component name="libraryTable">
-  <library name="gson-2.8.2">
+  <library name="h2-1.4.197">
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/lib/gson-2.8.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/h2-1.4.197.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

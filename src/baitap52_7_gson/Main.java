@@ -88,10 +88,10 @@ public class Main {
             }
         }
         String soudce = builder.toString();
-        JsonArray array = new JsonArray(soudce);
-        for (int i = 0; i < array.size(); i++) {
-            JsonObject obj = array.
-        }
+//        JsonArray array = new JsonArray(soudce);
+//        for (int i = 0; i < array.size(); i++) {
+//            JsonObject obj = array.
+//        }
 
         Gson gson = new Gson();
         classRooms = gson.fromJson(builder.toString(), ClassRoom[].class);

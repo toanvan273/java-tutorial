@@ -1,5 +1,6 @@
 package baitap13_animal;
 
+
 import java.io.Serializable;
 import java.util.Scanner;
 import java.util.regex.Matcher;
@@ -89,7 +90,7 @@ public abstract class Animal implements Serializable {
                 ", Ten='" + Ten + '\'' +
                 ", Tuoi=" + Tuoi +
                 ", MoTa='" + MoTa + '\'' +
-                '}';
+                '}' ;
     }
 
     public void xemThongTin(){

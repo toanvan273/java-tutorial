@@ -20,26 +20,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a89b180f-179e-4c63-8ecd-42ebfa0ff92f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/gson_2_8_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/baitap13_animal/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/baitap13_animal/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/baitap13_animal/Chuong.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/baitap13_animal/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/baitap13_animal/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/baitap13_animal/TestZoo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/baitap13_animal/Tiger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/baitap13_animal/Zoo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/baitap52_7_gson/ClassRoom.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/baitap52_7_gson/Information.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/baitap52_7_gson/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/baitap52_7_gson/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/h2_1_4_197.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/mysql_connector_java_6_0_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/h2-1.4.197.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MySQLUtil/ConectionUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ncBtThreadMoRong/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ncBtThreadMoRong/ShadeData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ncBtThreadMoRong/Thread1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ncBtThreadMoRong/Thread2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ncBtThreadMoRong/Thread3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/gson_2_8_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/gson_2_8_2.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/java-tutorial.iml" beforeDir="false" afterPath="$PROJECT_DIR$/java-tutorial.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-tutorial/baitap62_2/QuanLyBay.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-tutorial/baitap62_2/QuanLyBay.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-tutorial/baitap62_2/VeMayBay.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-tutorial/baitap62_2/VeMayBay.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quanlybay.dat" beforeDir="false" afterPath="$PROJECT_DIR$/quanlybay.dat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/baitap62_2/QuanLyBay.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/baitap62_2/QuanLyBay.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/baitap62_2/VeMayBay.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/baitap62_2/VeMayBay.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-tutorial/baitap13_animal/Animal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-tutorial/baitap13_animal/Animal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-tutorial/baitap13_animal/TestZoo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-tutorial/baitap13_animal/TestZoo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-tutorial/baitap52_7_gson/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-tutorial/baitap52_7_gson/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/baitap13_animal/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/baitap13_animal/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/baitap13_animal/TestZoo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/baitap13_animal/TestZoo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/baitap52_7_gson/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/baitap52_7_gson/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zoofile.dat" beforeDir="false" afterPath="$PROJECT_DIR$/zoofile.dat" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,23 +65,24 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/gson-2.8.2.jar!/" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/lib" />
+    <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\toan.truong\Desktop\home\java-tutorial\lib" />
       <recent name="C:\Users\toan.truong\Desktop\home\java-tutorial\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main (2)">
-    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ncDesignPartenlv1.Main" />
+  <component name="RunManager" selected="Application.ConectionUtils">
+    <configuration name="ConectionUtils" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MySQLUtil.ConectionUtils" />
       <module name="java-tutorial" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ncDesignPartenlv1.*" />
+          <option name="PATTERN" value="MySQLUtil.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,12 +103,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="QuanLyBay" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="baitap62_2.QuanLyBay" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ncBtThreadMoRong.Main" />
       <module name="java-tutorial" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="baitap62_2.*" />
+          <option name="PATTERN" value="ncBtThreadMoRong.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,12 +116,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ncDesignPartenlv1.Test" />
+    <configuration name="QuanLyBay" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="baitap62_2.QuanLyBay" />
       <module name="java-tutorial" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ncDesignPartenlv1.*" />
+          <option name="PATTERN" value="baitap62_2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -144,11 +144,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main (2)" />
+        <item itemvalue="Application.ConectionUtils" />
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.TestZoo" />
+        <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.QuanLyBay" />
-        <item itemvalue="Application.Test" />
-        <item itemvalue="Application.Main (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -186,50 +186,50 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="880" y="162" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1595578508775" />
-    <state x="1185" y="275" key="#com.intellij.ide.util.MemberChooser" timestamp="1595575107241">
+    <state x="1185" y="275" key="#com.intellij.ide.util.MemberChooser" timestamp="1596104076136">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1185" y="275" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1595575107241" />
-    <state x="1091" y="225" key="FileChooserDialogImpl" timestamp="1595578453445">
+    <state x="1185" y="275" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1596104076136" />
+    <state x="1091" y="225" key="FileChooserDialogImpl" timestamp="1596177280510">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1091" y="225" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1595578453445" />
-    <state width="1877" height="452" key="GridCell.Tab.0.bottom" timestamp="1595587213757">
+    <state x="1091" y="225" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1596177280510" />
+    <state width="1280" height="467" key="GridCell.Tab.0.bottom" timestamp="1596189097113">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="452" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1595587213757" />
-    <state width="1877" height="452" key="GridCell.Tab.0.center" timestamp="1595587213757">
+    <state width="1280" height="467" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1596189097113" />
+    <state width="1280" height="467" key="GridCell.Tab.0.center" timestamp="1596189097113">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="452" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1595587213757" />
-    <state width="1877" height="452" key="GridCell.Tab.0.left" timestamp="1595587213757">
+    <state width="1280" height="467" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1596189097113" />
+    <state width="1280" height="467" key="GridCell.Tab.0.left" timestamp="1596189097113">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="452" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1595587213757" />
-    <state width="1877" height="452" key="GridCell.Tab.0.right" timestamp="1595587213757">
+    <state width="1280" height="467" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1596189097113" />
+    <state width="1280" height="467" key="GridCell.Tab.0.right" timestamp="1596189097113">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="452" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1595587213757" />
-    <state width="1877" height="452" key="GridCell.Tab.1.bottom" timestamp="1595587213757">
+    <state width="1280" height="467" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1596189097113" />
+    <state width="1877" height="392" key="GridCell.Tab.1.bottom" timestamp="1596186885438">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="452" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1595587213757" />
-    <state width="1877" height="452" key="GridCell.Tab.1.center" timestamp="1595587213757">
+    <state width="1877" height="392" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1596186885438" />
+    <state width="1877" height="392" key="GridCell.Tab.1.center" timestamp="1596186885438">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="452" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1595587213757" />
-    <state width="1877" height="452" key="GridCell.Tab.1.left" timestamp="1595587213757">
+    <state width="1877" height="392" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1596186885438" />
+    <state width="1877" height="392" key="GridCell.Tab.1.left" timestamp="1596186885438">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="452" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1595587213757" />
-    <state width="1877" height="452" key="GridCell.Tab.1.right" timestamp="1595587213757">
+    <state width="1877" height="392" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1596186885438" />
+    <state width="1877" height="392" key="GridCell.Tab.1.right" timestamp="1596186885438">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="452" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1595587213757" />
-    <state x="572" y="184" key="SettingsEditor" timestamp="1595578252925">
+    <state width="1877" height="392" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1596186885438" />
+    <state x="572" y="184" key="SettingsEditor" timestamp="1596177284527">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="572" y="184" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1595578252925" />
+    <state x="572" y="184" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1596177284527" />
     <state x="683" y="250" key="new project wizard" timestamp="1595578405482">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
