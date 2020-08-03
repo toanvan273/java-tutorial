@@ -17,7 +17,7 @@ public class ConectionUtils {
         // INSERT CSDL
 //        String sqlInsert = "INSERT INTO Test (id,name) VALUES (?,?)";
 //        PreparedStatement state = connection.prepareStatement(sqlInsert);
-//        state.setInt(1,6);
+//        state.setInt(1,7);
 //        state.setString(2,"hiX");
 //        int rowsInsert = state.executeUpdate();
 //        System.out.println("rowsInsert :"+rowsInsert);
