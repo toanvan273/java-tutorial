@@ -10,11 +10,27 @@ public class Thread2 extends Thread{
     @Override
     public void run() {
         while (shadeData.checkAvaiable()){
-            int rad = shadeData.getRad();
-            if(rad%3==0){
-                rad *=rad;
-                System.out.println("T2 >> "+rad);
+            synchronized (shadeData){
+                shadeData.notifyAll();
+                try {
+                    while (shadeData.getIndex()!=2&&shadeData.checkAvaiable()){
+                        shadeData.wait();
+                    }
+
+                } catch (InterruptedException e) {
+                    e.printStackTrace();
+                }
+
+                // logic
+                int rad = shadeData.getRad();
+                if(rad%3==0){
+                    rad *=rad;
+                    System.out.println("T2 -> "+rad);
+                }
+                shadeData.setIndex(1);
             }
+
         }
+        System.out.println("2 stop");
     }
 }

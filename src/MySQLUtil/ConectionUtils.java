@@ -6,12 +6,9 @@ import java.util.Scanner;
 
 public class ConectionUtils {
     static Scanner scanner = new Scanner(System.in);
-    public static void main(String[] args) throws ClassNotFoundException, SQLException       {
+    public static void main(String[] args) throws ClassNotFoundException, SQLException  {
         Class.forName("org.h2.Driver");
         Connection connection = DriverManager.getConnection("jdbc:h2:~/test", "sa", "");
-
-
-
         System.out.println("------------------------");
 
         // INSERT CSDL
