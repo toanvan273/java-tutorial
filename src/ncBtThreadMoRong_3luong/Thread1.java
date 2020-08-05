@@ -1,6 +1,4 @@
-package ncBtThreadMoRong;
-
-import baitap62.ShareData;
+package ncBtThreadMoRong_3luong;
 
 import java.util.Random;
 

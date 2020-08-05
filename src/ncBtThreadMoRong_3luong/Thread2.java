@@ -1,4 +1,4 @@
-package ncBtThreadMoRong;
+package ncBtThreadMoRong_3luong;
 
 public class Thread2 extends Thread{
     ShadeData shadeData;
