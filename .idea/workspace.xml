@@ -20,24 +20,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a89b180f-179e-4c63-8ecd-42ebfa0ff92f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/btTonghopFileOopThread/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/btTonghopFileOopThread/SharedData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/btTonghopFileOopThread/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/btTonghopFileOopThread/Thread1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/btTonghopFileOopThread/Thread2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/btTonghopFileOopThread/Thread3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/btTonghopFileOopThread/student.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/btmeRandomA_Za_zThread/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/btmeRandomA_Za_zThread/SharedData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/btmeRandomA_Za_zThread/ThreadOne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/btmeRandomA_Za_zThread/ThreadTwo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-tutorial/ncBtThreadMoRong/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-tutorial/ncBtThreadMoRong/ShadeData.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-tutorial/ncBtThreadMoRong/Thread1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-tutorial/ncBtThreadMoRong/Thread2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-tutorial/ncBtThreadMoRong/Thread3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ncBtThreadMoRong/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ncBtThreadMoRong_3luong/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ncBtThreadMoRong/ShadeData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ncBtThreadMoRong_3luong/ShadeData.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ncBtThreadMoRong/Thread1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ncBtThreadMoRong_3luong/Thread1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ncBtThreadMoRong/Thread2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ncBtThreadMoRong_3luong/Thread2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ncBtThreadMoRong/Thread3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ncBtThreadMoRong_3luong/Thread3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/C1009H0001.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/C1009H0002.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/C1009H0003.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/C1009H0004.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/C1009H0005.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/T0812KV0002.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-tutorial/btTonghopFileOopThread/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-tutorial/btTonghopFileOopThread/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-tutorial/btTonghopFileOopThread/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-tutorial/btTonghopFileOopThread/Student.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-tutorial/btTonghopFileOopThread/Thread1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-tutorial/btTonghopFileOopThread/Thread1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-tutorial/btTonghopFileOopThread/Thread2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-tutorial/btTonghopFileOopThread/Thread2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/btTonghopFileOopThread/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/btTonghopFileOopThread/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/btTonghopFileOopThread/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/btTonghopFileOopThread/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/btTonghopFileOopThread/Thread1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/btTonghopFileOopThread/Thread1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/btTonghopFileOopThread/Thread2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/btTonghopFileOopThread/Thread2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,7 +65,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../VNDirect/api/d-communication" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -75,7 +76,7 @@
       <recent name="C:\Users\toan.truong\Desktop\home\java-tutorial\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main (1)">
+  <component name="RunManager" selected="Application.Main (3)">
     <configuration name="ConectionUtils" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="MySQLUtil.ConectionUtils" />
       <module name="java-tutorial" />
@@ -102,12 +103,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="baitap52_7_gson.Main" />
+    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="btmeRandomA_Za_zThread.Main" />
       <module name="java-tutorial" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="baitap52_7_gson.*" />
+          <option name="PATTERN" value="btmeRandomA_Za_zThread.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -143,11 +144,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (3)" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.ConectionUtils" />
         <item itemvalue="Application.TestZoo" />
-        <item itemvalue="Application.Main (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -185,46 +186,46 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="880" y="162" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1595578508775" />
-    <state x="1185" y="275" key="#com.intellij.ide.util.MemberChooser" timestamp="1596622016683">
+    <state x="1185" y="275" key="#com.intellij.ide.util.MemberChooser" timestamp="1597135464005">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1185" y="275" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1596622016683" />
-    <state x="1091" y="225" key="FileChooserDialogImpl" timestamp="1596615421423">
+    <state x="1185" y="275" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1597135464005" />
+    <state x="1091" y="225" key="FileChooserDialogImpl" timestamp="1596791662678">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1091" y="225" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1596615421423" />
-    <state width="1877" height="374" key="GridCell.Tab.0.bottom" timestamp="1596623397653">
+    <state x="1091" y="225" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1596791662678" />
+    <state width="967" height="445" key="GridCell.Tab.0.bottom" timestamp="1597142121462">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="374" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1596623397653" />
-    <state width="1877" height="374" key="GridCell.Tab.0.center" timestamp="1596623397653">
+    <state width="967" height="445" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1597142121462" />
+    <state width="967" height="445" key="GridCell.Tab.0.center" timestamp="1597142121462">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="374" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1596623397653" />
-    <state width="1877" height="374" key="GridCell.Tab.0.left" timestamp="1596623397653">
+    <state width="967" height="445" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1597142121462" />
+    <state width="967" height="445" key="GridCell.Tab.0.left" timestamp="1597142121462">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="374" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1596623397653" />
-    <state width="1877" height="374" key="GridCell.Tab.0.right" timestamp="1596623397653">
+    <state width="967" height="445" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1597142121462" />
+    <state width="967" height="445" key="GridCell.Tab.0.right" timestamp="1597142121462">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="374" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1596623397653" />
-    <state width="1877" height="374" key="GridCell.Tab.1.bottom" timestamp="1596623397653">
+    <state width="967" height="445" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1597142121462" />
+    <state width="1383" height="443" key="GridCell.Tab.1.bottom" timestamp="1596710151555">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="374" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1596623397653" />
-    <state width="1877" height="374" key="GridCell.Tab.1.center" timestamp="1596623397653">
+    <state width="1383" height="443" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1596710151555" />
+    <state width="1383" height="443" key="GridCell.Tab.1.center" timestamp="1596710151555">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="374" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1596623397653" />
-    <state width="1877" height="374" key="GridCell.Tab.1.left" timestamp="1596623397653">
+    <state width="1383" height="443" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1596710151555" />
+    <state width="1383" height="443" key="GridCell.Tab.1.left" timestamp="1596710151555">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="374" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1596623397653" />
-    <state width="1877" height="374" key="GridCell.Tab.1.right" timestamp="1596623397653">
+    <state width="1383" height="443" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1596710151555" />
+    <state width="1383" height="443" key="GridCell.Tab.1.right" timestamp="1596710151555">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="374" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1596623397653" />
+    <state width="1383" height="443" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1596710151555" />
     <state x="572" y="184" key="SettingsEditor" timestamp="1596177284527">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -242,11 +243,17 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/btTonghopFileOopThread/Thread2.java</url>
-          <line>16</line>
-          <option name="timeStamp" value="1" />
+          <url>file://$PROJECT_DIR$/src/btTonghopFileOopThread/Thread3.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="5" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="reader" />
+        <watch expression="reader" />
+      </configuration>
+    </watches-manager>
   </component>
 </project>

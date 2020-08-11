@@ -6,8 +6,7 @@ import java.util.regex.Pattern;
 public class Student implements Serializable {
     String rollNo;
 
-    public Student() {
-    }
+    public Student() {}
 
     public Student(String rollNo) {
         this.rollNo = rollNo;

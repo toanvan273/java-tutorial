@@ -44,7 +44,6 @@ public class Thread1 extends Thread{
                         sharedData.getUnvalidRollNumber().add(line);
                         sharedData.setCurrentThread(sharedData.THREAD_3);
                     }
-
                     sharedData.notifyAll();
                     try {
                         sharedData.wait();

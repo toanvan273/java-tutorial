@@ -24,7 +24,6 @@ public class Thread2 extends Thread{
                 } catch (InterruptedException e) {
                     e.printStackTrace();
                 }
-
                 int length = sharedData.getValidRollNumber().size();
                 if(length>0){
                     Student std = sharedData.getValidRollNumber().get(length-1);
@@ -34,9 +33,9 @@ public class Thread2 extends Thread{
                     FileOutputStream fos = null;
                     ObjectOutputStream oos = null;
                     try {
-                         fos = new FileOutputStream(std.getRollNo()+".dat");
+                         fos = new FileOutputStream( "./src/btTonghopFileOopThread/"+std.getRollNo()+".dat");
                          oos = new ObjectOutputStream(fos);
-                        oos.writeObject(std);
+                         oos.writeObject(std);
                     } catch (FileNotFoundException e) {
                         e.printStackTrace();
                     } catch (IOException e) {
