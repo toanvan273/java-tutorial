@@ -1,33 +1,18 @@
 package control_flow;
 
+import java.util.regex.Matcher;
+import java.util.regex.Pattern;
+
 public class Java21 {
     public static void main(String[] args) {
-        int a = 5;
-        if (a % 2 == 0) {
-            System.out.println("a la so chan.");
-        } else {
-            System.out.println("a la so le.");
+            String img = "<img height=\"375\" id=\"rId4\" src=\"46d0be33-6cfd-427d-a3b0-2d62ed55e301image1.png\" width=\"375\" />";
+            String imgRegex = "src\\s*=\\s*\"(.+?)\"";
+            Pattern pattern = Pattern.compile(imgRegex);
+            Matcher matcher = pattern.matcher(img);
+//        System.out.println(matcher.find());
+//            System.out.println(matcher.group(1));
+        while(matcher.find()) {
+            System.out.println("found: " + matcher.group());
         }
-//        for(int i = 0;i<100;i++){
-//            if(i%5==0){
-//                System.out.println(i);
-//            }
-//        }
-//        int i = 100;
-//        while (i>=0){
-//            System.out.println(i);
-//            i--;
-//        }
-//        for (;;){
-//            System.out.println(i);
-//            i+=100;
-//        }
-
-        int i = 9;
-        do {
-            System.out.println(i);
-            i--;
-        }while (i>=0);
-
     }
 }

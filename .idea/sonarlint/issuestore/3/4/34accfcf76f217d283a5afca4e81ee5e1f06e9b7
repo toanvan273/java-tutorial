@@ -1,0 +1,54 @@
+
+k
+java:S2095e"PUse try-with-resources or close this "ObjectOutputStream" in a "finally" clause.(âß ýüÿÿÿÿ
+T	java:S106¨"9Replace this use of System.out or System.err by a logger.(¤À¹ƒÿÿÿÿÿ
+O	java:S106©"9Replace this use of System.out or System.err by a logger.(¿ˆ¯
+S	java:S106&"9Replace this use of System.out or System.err by a logger.(¡ÊßÀùÿÿÿÿ
+O	java:S106ª"9Replace this use of System.out or System.err by a logger.(ø Ð‚
+O	java:S106®"9Replace this use of System.out or System.err by a logger.(¼èð„
+O	java:S106¥"9Replace this use of System.out or System.err by a logger.(Â•ûÍ
+S	java:S1068"9Replace this use of System.out or System.err by a logger.(‘…Óàÿÿÿÿÿ
+N	java:S106X"9Replace this use of System.out or System.err by a logger.(úô½û
+T	java:S106§"9Replace this use of System.out or System.err by a logger.(Ôïÿ»þÿÿÿÿ
+S	java:S106L"9Replace this use of System.out or System.err by a logger.(¢ØÎŸüÿÿÿÿ
+S	java:S106*"9Replace this use of System.out or System.err by a logger.(´É´þÿÿÿÿ
+?
+java:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+O	java:S106­"9Replace this use of System.out or System.err by a logger.(Á‰‰Œ
+i
+java:S1192"NDefine a constant instead of duplicating this literal "quanlybay.dat" 4 times.(äÝÌîýÿÿÿÿ
+E
+java:S2093c"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ
+N	java:S106."9Replace this use of System.out or System.err by a logger.(¢âŸ
+N	java:S106«"9Replace this use of System.out or System.err by a logger.(í‘O
+E
+java:S2093u"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ
+O	java:S106Œ"9Replace this use of System.out or System.err by a logger.(„¼úö
+T	java:S106¦"9Replace this use of System.out or System.err by a logger.(ˆ¾¯Ûùÿÿÿÿ
+T	java:S106 "9Replace this use of System.out or System.err by a logger.(ë™¿ÿÿÿÿÿ
+O	java:S106¤"9Replace this use of System.out or System.err by a logger.(§Í»
+[
+java:S2259~"@A "NullPointerException" could be thrown; "fo" is nullable here.(É¯àúÿÿÿÿ
+T	java:S106¬"9Replace this use of System.out or System.err by a logger.(Ë‘É¾øÿÿÿÿ
+>
+java:S1148n"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+\
+java:S2118f"AMake the "java.util.List" class "Serializable" or don't write it.(½¢‘ïüÿÿÿÿ
+N	java:S106±"9Replace this use of System.out or System.err by a logger.(Þ»ð)
+>
+java:S1148h"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‰ñÎ¬ùÿÿÿÿ
+V
+java:S2259"@A "NullPointerException" could be thrown; "os" is nullable here.(œñŽÑ
+Z
+java:S1155„">Use isEmpty() to check whether the collection is empty or not.(É€°Îøÿÿÿÿ
+O	java:S106¯"9Replace this use of System.out or System.err by a logger.(Æ±Ã˜
+e
+java:S2095w"OUse try-with-resources or close this "ObjectInputStream" in a "finally" clause.(¬ç¢è
+>
+java:S1148{"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+T	java:S106°"9Replace this use of System.out or System.err by a logger.(ÿÙàžúÿÿÿÿ
+P	java:S125A"<This block of commented-out lines of code should be removed.(í“¾
+w
+java:S1845W"aRename method "input" to prevent any misunderstanding/clash with field "input" defined on line 7.(ãÉ„—
+N	java:S106y"9Replace this use of System.out or System.err by a logger.(Âëúô

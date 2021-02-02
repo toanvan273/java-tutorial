@@ -1,0 +1,13 @@
+
+S	java:S106J"9Replace this use of System.out or System.err by a logger.(³î­äüÿÿÿÿ
+N	java:S106O"9Replace this use of System.out or System.err by a logger.(˜§ªÊ
+S	java:S106M"9Replace this use of System.out or System.err by a logger.(Ø§¡¨øÿÿÿÿ
+i	java:S116"ORename this field "Tuoi" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Æ˜Èšşÿÿÿÿ
+S	java:S106a"9Replace this use of System.out or System.err by a logger.(šûã‡şÿÿÿÿ
+N	java:S106Q"9Replace this use of System.out or System.err by a logger.(£şæú
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(âÙ‹şÿÿÿÿ
+S	java:S1067"9Replace this use of System.out or System.err by a logger.(éÚêúÿÿÿÿ
+c	java:S116"NRename this field "Ten" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Šá‘
+c	java:S116"ORename this field "MoTa" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘³«G
+N	java:S106B"9Replace this use of System.out or System.err by a logger.(öòª˜
+s	java:S1358"YReduce the total number of break and continue statements in this loop to use at most one.(˜ïˆÿÿÿÿÿ

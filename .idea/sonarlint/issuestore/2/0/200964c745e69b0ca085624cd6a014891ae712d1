@@ -1,0 +1,8 @@
+
+]	java:S125>"<This block of commented-out lines of code should be removed.(Ú¹î÷úÿÿÿÿ8‹ïâ³É.
+Z	java:S106%"9Replace this use of System.out or System.err by a logger.(Â€öÙþÿÿÿÿ8àÿ³É.
+N
+java:S1602$",Remove useless curly braces around statement(–±çùøÿÿÿÿ8àÿ³É.
+}
+java:S1488?"`Immediately return this expression instead of assigning it to the temporary variable "dateTime".(Èƒ­È8‹ïâ³É.
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.( ´˜Æùÿÿÿÿ

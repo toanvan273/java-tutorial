@@ -20,25 +20,40 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a89b180f-179e-4c63-8ecd-42ebfa0ff92f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/btmeRandomA_Za_zThread/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/btmeRandomA_Za_zThread/SharedData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/btmeRandomA_Za_zThread/ThreadOne.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/btmeRandomA_Za_zThread/ThreadTwo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/btThuannd/MainTicket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/btThuannd/Ticket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/connect_mysql/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/connect_mysql/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pattern_abstract_factory/Chair.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pattern_abstract_factory/FurnitureAbstractFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pattern_abstract_factory/FurnitureFatory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pattern_abstract_factory/MaterialType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pattern_abstract_factory/PlasticChair.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pattern_abstract_factory/PlasticFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pattern_abstract_factory/PlasticTable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pattern_abstract_factory/Table.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pattern_abstract_factory/WoodFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pattern_abstract_factory/WoodTable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pattern_abstract_factory/Woodchair.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pattern_abstract_factory/mainClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pattern_builder/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pattern_builder/StudentBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pattern_builder/StudentConcreteBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pattern_builder/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pattern_factory/Bank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pattern_factory/BankFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pattern_factory/BankType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pattern_factory/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pattern_factory/TPBank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pattern_factory/VPBank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pattern_factory/Vietcombank.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/C1009H0001.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/C1009H0002.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/C1009H0003.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/C1009H0004.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/C1009H0005.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/T0812KV0002.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-tutorial/btTonghopFileOopThread/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-tutorial/btTonghopFileOopThread/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-tutorial/btTonghopFileOopThread/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-tutorial/btTonghopFileOopThread/Student.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-tutorial/btTonghopFileOopThread/Thread1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-tutorial/btTonghopFileOopThread/Thread1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java-tutorial/btTonghopFileOopThread/Thread2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-tutorial/btTonghopFileOopThread/Thread2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/btTonghopFileOopThread/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/btTonghopFileOopThread/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/btTonghopFileOopThread/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/btTonghopFileOopThread/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/btTonghopFileOopThread/Thread1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/btTonghopFileOopThread/Thread1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/btTonghopFileOopThread/Thread2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/btTonghopFileOopThread/Thread2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-tutorial/META-INF/java-tutorial.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-tutorial/OtherClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-tutorial/OtherClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-tutorial/control_flow/Java21.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-tutorial/control_flow/Java21.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MySQLUtil/ConectionUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MySQLUtil/ConectionUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OtherClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OtherClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/control_flow/Java21.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/control_flow/Java21.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,6 +63,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Enum" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -65,10 +82,20 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="terminal" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -76,13 +103,31 @@
       <recent name="C:\Users\toan.truong\Desktop\home\java-tutorial\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main (3)">
-    <configuration name="ConectionUtils" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MySQLUtil.ConectionUtils" />
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="MainTicket" />
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.mainClient">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pattern_factory.Client" />
       <module name="java-tutorial" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="MySQLUtil.*" />
+          <option name="PATTERN" value="pattern_factory.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -90,12 +135,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="btTonghopFileOopThread.Main" />
+    <configuration name="MainTicket" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="btThuannd.MainTicket" />
       <module name="java-tutorial" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="btTonghopFileOopThread.*" />
+          <option name="PATTERN" value="btThuannd.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,12 +148,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="btmeRandomA_Za_zThread.Main" />
+    <configuration name="OtherClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OtherClass" />
+      <module name="java-tutorial" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pattern_builder.main" />
       <module name="java-tutorial" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="btmeRandomA_Za_zThread.*" />
+          <option name="PATTERN" value="pattern_builder.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,25 +168,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ncBtThreadMoRong_3luong.Main" />
+    <configuration name="mainClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pattern_abstract_factory.mainClient" />
       <module name="java-tutorial" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ncBtThreadMoRong_3luong.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestZoo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="baitap13_animal.TestZoo" />
-      <module name="java-tutorial" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="baitap13_animal.*" />
+          <option name="PATTERN" value="pattern_abstract_factory.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -144,14 +183,15 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main (3)" />
-        <item itemvalue="Application.Main (1)" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.ConectionUtils" />
-        <item itemvalue="Application.TestZoo" />
+        <item itemvalue="Application.mainClient" />
+        <item itemvalue="Application.Client" />
+        <item itemvalue="Application.main" />
+        <item itemvalue="Application.OtherClass" />
+        <item itemvalue="Application.MainTicket" />
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -162,8 +202,30 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1593488851088</updated>
+      <workItem from="1598413418465" duration="1996000" />
+      <workItem from="1598417013043" duration="28000" />
+      <workItem from="1598417053158" duration="4430000" />
+      <workItem from="1598437318674" duration="597000" />
+      <workItem from="1599200953154" duration="24000" />
+      <workItem from="1599794186833" duration="727000" />
+      <workItem from="1600048441411" duration="38000" />
+      <workItem from="1600069305304" duration="4699000" />
+      <workItem from="1600078526432" duration="617000" />
+      <workItem from="1600150988078" duration="351000" />
+      <workItem from="1600154249521" duration="1075000" />
+      <workItem from="1600229670359" duration="10314000" />
+      <workItem from="1600674873839" duration="1411000" />
+      <workItem from="1600755180551" duration="624000" />
+      <workItem from="1602830470725" duration="3172000" />
+      <workItem from="1603263491273" duration="617000" />
+      <workItem from="1603446621279" duration="17000" />
+      <workItem from="1605232515318" duration="1787000" />
+      <workItem from="1607328806639" duration="1225000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -178,66 +240,30 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="988" y="178" width="816" height="729" key="#Intentions" timestamp="1594968988942">
+    <state x="1283" y="261" key="#com.intellij.ide.util.MemberChooser" timestamp="1611717920079">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="988" y="178" width="816" height="729" key="#Intentions/0.0.1920.1040@0.0.1920.1040" timestamp="1594968988942" />
-    <state x="880" y="162" key="#Project_Structure" timestamp="1595578508775">
+    <state x="1283" y="261" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1611717920079" />
+    <state x="688" y="282" key="FileChooserDialogImpl" timestamp="1612230953099">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="880" y="162" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1595578508775" />
-    <state x="1185" y="275" key="#com.intellij.ide.util.MemberChooser" timestamp="1597135464005">
+    <state x="688" y="282" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1612230953099" />
+    <state width="1411" height="273" key="GridCell.Tab.0.bottom" timestamp="1612262254686">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1185" y="275" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1597135464005" />
-    <state x="1091" y="225" key="FileChooserDialogImpl" timestamp="1596791662678">
+    <state width="1411" height="273" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1612262254686" />
+    <state width="1411" height="273" key="GridCell.Tab.0.center" timestamp="1612262254686">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1091" y="225" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1596791662678" />
-    <state width="967" height="445" key="GridCell.Tab.0.bottom" timestamp="1597142121462">
+    <state width="1411" height="273" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1612262254686" />
+    <state width="1411" height="273" key="GridCell.Tab.0.left" timestamp="1612262254686">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="967" height="445" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1597142121462" />
-    <state width="967" height="445" key="GridCell.Tab.0.center" timestamp="1597142121462">
+    <state width="1411" height="273" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1612262254686" />
+    <state width="1411" height="273" key="GridCell.Tab.0.right" timestamp="1612262254686">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="967" height="445" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1597142121462" />
-    <state width="967" height="445" key="GridCell.Tab.0.left" timestamp="1597142121462">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="967" height="445" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1597142121462" />
-    <state width="967" height="445" key="GridCell.Tab.0.right" timestamp="1597142121462">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="967" height="445" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1597142121462" />
-    <state width="1383" height="443" key="GridCell.Tab.1.bottom" timestamp="1596710151555">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1383" height="443" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1596710151555" />
-    <state width="1383" height="443" key="GridCell.Tab.1.center" timestamp="1596710151555">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1383" height="443" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1596710151555" />
-    <state width="1383" height="443" key="GridCell.Tab.1.left" timestamp="1596710151555">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1383" height="443" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1596710151555" />
-    <state width="1383" height="443" key="GridCell.Tab.1.right" timestamp="1596710151555">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1383" height="443" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1596710151555" />
-    <state x="572" y="184" key="SettingsEditor" timestamp="1596177284527">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="572" y="184" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1596177284527" />
-    <state x="683" y="250" key="new project wizard" timestamp="1595578405482">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="683" y="250" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1595578405482" />
-    <state x="1091" y="266" key="run.anything.popup" timestamp="1595573696779">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="1091" y="266" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1595573696779" />
+    <state width="1411" height="273" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1612262254686" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

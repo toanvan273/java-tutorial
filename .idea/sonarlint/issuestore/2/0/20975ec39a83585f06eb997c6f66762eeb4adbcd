@@ -1,0 +1,31 @@
+
+b
+java:S2095"GUse try-with-resources or close this "Statement" in a "finally" clause.(é°Áµşÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(éç¬ùÿÿÿÿ
+N	java:S106("9Replace this use of System.out or System.err by a logger.(ÆÀûı
+F
+java:S14810"0Remove this unused "stateUpdate" local variable.(±£‘ƒ
+D
+java:S2115")Add password protection to this database.(³ûÂ ûÿÿÿÿ
+M	java:S1068"9Replace this use of System.out or System.err by a logger.(Ä­æ[
+M	java:S106;"9Replace this use of System.out or System.err by a logger.(Ş»ğ)
+N	java:S1067"9Replace this use of System.out or System.err by a logger.(ÂûÃ¬
+c
+java:S2095"HUse try-with-resources or close this "Connection" in a "finally" clause.(³ûÂ ûÿÿÿÿ
+S	java:S106""9Replace this use of System.out or System.err by a logger.(½Ÿıÿÿÿÿ
+b
+java:S2095"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(Œõ„¡ÿÿÿÿÿ
+e
+java:S20950"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(±£‘ƒ
+N	java:S106:"9Replace this use of System.out or System.err by a logger.(†¸²ğ
+Q	java:S125"<This block of commented-out lines of code should be removed.(Ø×ÆĞ
+Q	java:S125"<This block of commented-out lines of code should be removed.( ÷Ü­
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(û‰Õô
+U
+java:S18540"?Remove this useless assignment to local variable "stateUpdate".(±£‘ƒ
+S	java:S106,"9Replace this use of System.out or System.err by a logger.(ì‰ª›ıÿÿÿÿ
+C
+java:S4925
+"-Remove this "Class.forName()", it is useless.(›‡ªœ
+S	java:S1066"9Replace this use of System.out or System.err by a logger.(Î©Ğ±úÿÿÿÿ
+N	java:S1069"9Replace this use of System.out or System.err by a logger.(ù·ø

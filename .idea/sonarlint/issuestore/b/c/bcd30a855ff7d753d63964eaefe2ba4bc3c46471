@@ -1,0 +1,50 @@
+
+N	java:S106:"9Replace this use of System.out or System.err by a logger.(ûıÚ–
+O	java:S106—"9Replace this use of System.out or System.err by a logger.(ğŸ•±
+S	java:S106X"9Replace this use of System.out or System.err by a logger.(öÅ˜Âşÿÿÿÿ
+?
+java:S1148…"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+T	java:S106"9Replace this use of System.out or System.err by a logger.(ÊªàËüÿÿÿÿ
+E
+java:S2093f"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ
+N	java:S106j"9Replace this use of System.out or System.err by a logger.(¬„Ó
+>
+java:S1148r"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+O	java:S106Š"9Replace this use of System.out or System.err by a logger.(ò€õÑ
+>
+java:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+O	java:S106˜"9Replace this use of System.out or System.err by a logger.(ä¨…
+T	java:S106›"9Replace this use of System.out or System.err by a logger.(Ô¡Òàıÿÿÿÿ
+[
+java:S2259o"@A "NullPointerException" could be thrown; "fo" is nullable here.(É¯àúÿÿÿÿ
+F
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ
+V
+java:S2259p"@A "NullPointerException" could be thrown; "os" is nullable here.(œñÑ
+S	java:S106H"9Replace this use of System.out or System.err by a logger.(²§…šûÿÿÿÿ
+b
+java:S1192'"LDefine a constant instead of duplicating this literal "zoofile.dat" 4 times.(Éó“í
+S	java:S106^"9Replace this use of System.out or System.err by a logger.(ß«öüÿÿÿÿ
+E
+java:S2093z"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ
+k
+java:S2095|"PUse try-with-resources or close this "ObjectOutputStream" in a "finally" clause.(âß ıüÿÿÿÿ
+e
+java:S2095h"OUse try-with-resources or close this "ObjectInputStream" in a "finally" clause.(¬ç¢è
+T	java:S106™"9Replace this use of System.out or System.err by a logger.(óëÌšıÿÿÿÿ
+T	java:S106š"9Replace this use of System.out or System.err by a logger.(ƒèáºüÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(âÙ‹şÿÿÿÿ
+F
+java:S1128"0Remove this unused import 'baitap62_2.VeMayBay'.(¿ŞË¶
+S	java:S106u"9Replace this use of System.out or System.err by a logger.(”††Îÿÿÿÿÿ
+>
+java:S1148l"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+N	java:S106P"9Replace this use of System.out or System.err by a logger.(ò”¦ò
+T	java:S106"9Replace this use of System.out or System.err by a logger.(Ñ§Óşÿÿÿÿ
+7	java:S131""Add a default case to this switch.(ŸÂœ·
+N	java:S106–"9Replace this use of System.out or System.err by a logger.(ûôª^
+T	java:S106"9Replace this use of System.out or System.err by a logger.(‚¸üùÿÿÿÿ
+T	java:S106œ"9Replace this use of System.out or System.err by a logger.(„ãˆŞÿÿÿÿÿ
+N	java:S106K"9Replace this use of System.out or System.err by a logger.(ÙÒü
+O	java:S106‘"9Replace this use of System.out or System.err by a logger.(³‡ÁÑ
+O	java:S106•"9Replace this use of System.out or System.err by a logger.( ¤»

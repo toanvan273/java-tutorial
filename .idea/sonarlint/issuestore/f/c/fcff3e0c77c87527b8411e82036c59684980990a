@@ -1,0 +1,13 @@
+
+S	java:S106C"9Replace this use of System.out or System.err by a logger.(°—ÖÆıÿÿÿÿ
+S	java:S106Z"9Replace this use of System.out or System.err by a logger.(¿Õòºşÿÿÿÿ
+N	java:S106`"9Replace this use of System.out or System.err by a logger.(Àİ³¿
+S	java:S106R"9Replace this use of System.out or System.err by a logger.(ÎğĞçşÿÿÿÿ
+N	java:S106N"9Replace this use of System.out or System.err by a logger.(À÷³
+S	java:S106W"9Replace this use of System.out or System.err by a logger.(ªâ“Üùÿÿÿÿ
+N	java:S106]"9Replace this use of System.out or System.err by a logger.(¨Õ–Ä
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‰ñÎ¬ùÿÿÿÿ
+N	java:S106Q"9Replace this use of System.out or System.err by a logger.(²Ëİê
+S	java:S106s"9Replace this use of System.out or System.err by a logger.(šûã‡şÿÿÿÿ
+s	java:S135D"YReduce the total number of break and continue statements in this loop to use at most one.(˜ïˆÿÿÿÿÿ
+N	java:S106c"9Replace this use of System.out or System.err by a logger.(”¤œ„

@@ -1,0 +1,35 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÜÛó“
+k
+java:S1149Y"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(ƒÿƒ—ùÿÿÿÿ
+O
+java:S1854Q"9Remove this useless assignment to local variable "queue".(›–ú¬
+K
+java:S1854L"5Remove this useless assignment to local variable "a".(Øãë¢
+U
+java:S1854F":Remove this useless assignment to local variable "values".(ùùêİüÿÿÿÿ
+R
+java:S1854<"7Remove this useless assignment to local variable "st2".(éüÆÑşÿÿÿÿ
+S	java:S106`"9Replace this use of System.out or System.err by a logger.(‰É†şÿÿÿÿ
+N	java:S106f"9Replace this use of System.out or System.err by a logger.(…üö
+C
+java:S1481<"(Remove this unused "st2" local variable.(éüÆÑşÿÿÿÿ
+F
+java:S1481F"+Remove this unused "values" local variable.(ùùêİüÿÿÿÿ
+<
+java:S1481L"&Remove this unused "a" local variable.(Øãë¢
+@
+java:S1481Q"*Remove this unused "queue" local variable.(›–ú¬
+V	java:S125"<This block of commented-out lines of code should be removed.(³ñßïÿÿÿÿÿ
+P	java:S125"<This block of commented-out lines of code should be removed.(ó¥˜`
+Q	java:S125"<This block of commented-out lines of code should be removed.(ƒğÃ¿
+P	java:S125"<This block of commented-out lines of code should be removed.(Ä”ö
+V	java:S125#"<This block of commented-out lines of code should be removed.(áû·Éıÿÿÿÿ
+V	java:S125("<This block of commented-out lines of code should be removed.(ã­â”úÿÿÿÿ
+V	java:S125."<This block of commented-out lines of code should be removed.(²€Øœûÿÿÿÿ
+V	java:S1255"<This block of commented-out lines of code should be removed.(çôŸ—øÿÿÿÿ
+Q	java:S125="<This block of commented-out lines of code should be removed.(³‹èƒ
+V	java:S125B"<This block of commented-out lines of code should be removed.(ÔÑ«ªûÿÿÿÿ
+Q	java:S125G"<This block of commented-out lines of code should be removed.(ÈìÌ¼
+V	java:S125M"<This block of commented-out lines of code should be removed.(÷¦†èıÿÿÿÿ
+V	java:S125R"<This block of commented-out lines of code should be removed.(šŸÓ›ûÿÿÿÿ

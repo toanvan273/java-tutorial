@@ -1,0 +1,15 @@
+
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(û÷Î•ùÿÿÿÿ8»“âã.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(¹ı ¢8Æ³—âã.
+Q
+java:S1128"4Remove this unused import 'java.util.regex.Matcher'.(ëÅ›ã8ÀôĞ‚Ó.
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„‹²úÿÿÿÿ8çß‘âã.
+N
+java:S1144"1Remove this unused private "convertPhone" method.(áŞ§ò8·óÎ‚Ó.
+X	java:S125"<This block of commented-out lines of code should be removed.(™Ø½ú8¼„šâã.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(õÕú‡úÿÿÿÿ8Ëâ—âã.
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(³›¢8¡“âã.
+]	java:S125"<This block of commented-out lines of code should be removed.(†’†³ıÿÿÿÿ8ë™âã.
+V
+java:S1128"4Remove this unused import 'java.util.regex.Pattern'.(Ã•…Äúÿÿÿÿ8ÀôĞ‚Ó.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¥ç‘’ıÿÿÿÿ8Ëâ—âã.
